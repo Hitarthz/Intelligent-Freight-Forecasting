@@ -25,11 +25,11 @@ export default function App() {
   const [analysisData, setAnalysisData] = useState({
     current_rate: 34.81,
     forecast: {
-      '7_days': 35.12,
-      '30_days': 37.06,
-      '60_days': 38.85,
+      '7_days': 35.44,
+      '30_days': 37.53,
+      '60_days': 40.24,
     },
-    trend_30_days: 6.46,
+    trend_30_days: 7.81,
     data_confidence: 'HIGH',
     vessel: {
       name: 'MV Aeturnus 2',
@@ -45,18 +45,18 @@ export default function App() {
       draft_check: 'Vessel draft 10.2m <= Port draft 12.5m',
     },
     risk: {
-      score: 42,
+      score: 55,
       level: 'MEDIUM',
-      explanation: 'Moderate port congestion and rising bunker volatility.',
+      explanation: 'Moderate port congestion and rising freight volatility.',
     },
     cost: {
       freight: 1740500,
-      vessel: 336000,
-      total: 2076500,
+      vessel: 384000,
+      total: 2124500,
     },
     decision: {
       action: 'BOOK NOW',
-      reason: 'Forecast indicates rising freight rates (+6.46%) while vessel MV Aeturnus 2 is feasible and risk remains within threshold.',
+      reason: 'Forecast indicates rising freight rates while the selected vessel is feasible and risk remains within threshold.',
       partial_quantity_mt: null,
       remaining_quantity_mt: null,
     },
@@ -158,8 +158,10 @@ export default function App() {
     <div className="app-container">
       {/* SIDEBAR NAVIGATION (Matching dashboard.html) */}
       <aside className="sidebar">
-        <div className="logo">
-          INTELLIGENT FREIGHT FORECASTING
+        <div className="logo" style={{ fontSize: '18px', fontWeight: '800', lineHeight: '1.25', letterSpacing: '0.5px' }}>
+          INTELLIGENT<br />
+          FREIGHT<br />
+          FORECASTING
         </div>
 
         <div className="nav-title">COMMAND</div>
@@ -218,10 +220,6 @@ export default function App() {
 
       {/* MAIN CONTENT AREA */}
       <main className="main" id="home">
-        {/* TOPBAR */}
-        <div className="topbar">
-        </div>
-
         {error && <div className="error-banner">⚠️ {error}</div>}
 
         {/* 4 TOP KPI CARDS */}
