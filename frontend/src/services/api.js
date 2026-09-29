@@ -57,3 +57,15 @@ export async function getHistory() {
   }
   return [];
 }
+
+export async function clearHistoryApi() {
+  try {
+    const res = await fetch(`${API_URL}/api/history`, { method: 'DELETE' });
+    if (res.ok) {
+      return true;
+    }
+  } catch (err) {
+    console.error('Failed to clear history on backend:', err);
+  }
+  return false;
+}

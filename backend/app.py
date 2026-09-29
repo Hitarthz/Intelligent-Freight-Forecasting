@@ -486,6 +486,13 @@ def what_if(req: WhatIfRequest):
 def get_history():
     return {"history": analysis_history_records}
 
+@app.delete("/api/history")
+@app.post("/api/history/clear")
+def clear_history():
+    global analysis_history_records
+    analysis_history_records.clear()
+    return {"status": "ok", "message": "History cleared successfully"}
+
 @app.get("/api/report")
 def get_report():
     return {

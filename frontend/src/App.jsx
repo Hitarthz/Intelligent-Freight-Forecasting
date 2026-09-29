@@ -4,7 +4,7 @@ import PortRiskMonitor from './components/PortRiskMonitor';
 import WhatIfSimulator from './components/WhatIfSimulator';
 import AnalysisHistory from './components/AnalysisHistory';
 import DecisionReportModal from './components/DecisionReportModal';
-import { analyzeShipment, getHistory } from './services/api';
+import { analyzeShipment, getHistory, clearHistoryApi } from './services/api';
 import './styles/App.css';
 
 export default function App() {
@@ -77,12 +77,15 @@ export default function App() {
   const loadHistory = async () => {
     try {
       const records = await getHistory();
-      if (records && records.length > 0) {
-        setHistory(records);
-      }
+      setHistory(records || []);
     } catch (e) {
-      console.warn('Could not load history from backend, using session memory:', e);
+      console.warn('Could not load history from backend:', e);
     }
+  };
+
+  const handleClearHistory = async () => {
+    await clearHistoryApi();
+    setHistory([]);
   };
 
   const runAnalysis = async (payload) => {
@@ -478,7 +481,7 @@ export default function App() {
         />
 
         {/* SMART PROCUREMENT / AUDIT HISTORY (Matching dashboard.html) */}
-        <AnalysisHistory history={history} onClearHistory={() => setHistory([])} />
+        <AnalysisHistory history={history} onClearHistory={handleClearHistory} />
 
         {/* DECISION REPORT MODAL (Matching dashboard.html booking modal) */}
         <DecisionReportModal
