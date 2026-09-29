@@ -160,7 +160,6 @@ export default function App() {
       <aside className="sidebar">
         <div className="logo">
           FREIGHT <span>AI</span>
-          <span className="team-badge">Aeturnus</span>
         </div>
 
         <div className="nav-title">COMMAND</div>
@@ -215,15 +214,6 @@ export default function App() {
           <span>📊</span> Reports & History
         </button>
 
-        <div className="sidebar-footer">
-          <div>
-            <strong>SIH26006</strong> • Logistics
-          </div>
-          <div>Ministry of Steel</div>
-          <div style={{ marginTop: '4px', fontSize: '10px', color: '#4a627a' }}>
-            Decision Support Prototype
-          </div>
-        </div>
       </aside>
 
       {/* MAIN CONTENT AREA */}
@@ -478,7 +468,7 @@ export default function App() {
             </button>
 
             <div className="decision-disclaimer">
-              Decision Support Prototype • Final commercial chartering remains with user
+              Final commercial chartering decision remains with user
             </div>
           </section>
         </div>
