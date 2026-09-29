@@ -1,0 +1,1711 @@
+date,route,freight_rate,bunker_price,congestion,demand_index
+2026-06-01,Australia-Paradip,27.83,611.5,59.3,77.8
+2026-06-01,Australia-Visakhapatnam,26.42,611.5,47.5,77.8
+2026-06-01,Australia-Gangavaram,26.22,611.5,35.2,77.8
+2026-06-01,Australia-Dhamra,26.93,611.5,37.1,77.8
+2026-06-01,Australia-Gopalpur,27.33,611.5,27.1,77.8
+2026-06-01,Australia-Haldia,28.45,611.5,68.5,77.8
+2026-06-01,Indonesia-Paradip,15.29,611.5,54.6,77.8
+2026-06-01,Indonesia-Visakhapatnam,15.04,611.5,46.0,77.8
+2026-06-01,Indonesia-Haldia,15.75,611.5,66.2,77.8
+2026-06-01,Indonesia-Gangavaram,14.63,611.5,34.9,77.8
+2026-06-01,Mozambique-Visakhapatnam,22.65,611.5,48.1,77.8
+2026-06-01,Mozambique-Paradip,23.96,611.5,56.9,77.8
+2026-06-01,Mozambique-Gangavaram,23.07,611.5,29.7,77.8
+2026-06-01,United States-Paradip,42.6,611.5,56.8,77.8
+2026-06-01,United States-Gangavaram,42.66,611.5,30.8,77.8
+2026-06-01,United States-Dhamra,42.09,611.5,38.0,77.8
+2026-06-01,Russia-Paradip,35.73,611.5,59.6,77.8
+2026-06-01,Russia-Visakhapatnam,34.93,611.5,48.4,77.8
+2026-06-01,Russia-Gangavaram,35.4,611.5,29.3,77.8
+2026-06-02,Australia-Paradip,27.29,615.2,59.0,78.4
+2026-06-02,Australia-Visakhapatnam,26.42,615.2,46.2,78.4
+2026-06-02,Australia-Gangavaram,26.53,615.2,32.3,78.4
+2026-06-02,Australia-Dhamra,26.2,615.2,39.9,78.4
+2026-06-02,Australia-Gopalpur,27.55,615.2,29.8,78.4
+2026-06-02,Australia-Haldia,29.65,615.2,67.8,78.4
+2026-06-02,Indonesia-Paradip,16.08,615.2,61.3,78.4
+2026-06-02,Indonesia-Visakhapatnam,14.98,615.2,47.5,78.4
+2026-06-02,Indonesia-Haldia,16.9,615.2,69.9,78.4
+2026-06-02,Indonesia-Gangavaram,14.83,615.2,32.2,78.4
+2026-06-02,Mozambique-Visakhapatnam,22.93,615.2,47.0,78.4
+2026-06-02,Mozambique-Paradip,24.65,615.2,60.8,78.4
+2026-06-02,Mozambique-Gangavaram,23.51,615.2,33.0,78.4
+2026-06-02,United States-Paradip,42.65,615.2,59.9,78.4
+2026-06-02,United States-Gangavaram,42.72,615.2,33.9,78.4
+2026-06-02,United States-Dhamra,43.33,615.2,39.1,78.4
+2026-06-02,Russia-Paradip,36.74,615.2,54.0,78.4
+2026-06-02,Russia-Visakhapatnam,35.79,615.2,49.4,78.4
+2026-06-02,Russia-Gangavaram,34.71,615.2,33.4,78.4
+2026-06-03,Australia-Paradip,27.31,615.2,63.3,78.8
+2026-06-03,Australia-Visakhapatnam,26.61,615.2,48.7,78.8
+2026-06-03,Australia-Gangavaram,26.35,615.2,36.2,78.8
+2026-06-03,Australia-Dhamra,27.22,615.2,39.3,78.8
+2026-06-03,Australia-Gopalpur,28.2,615.2,30.5,78.8
+2026-06-03,Australia-Haldia,29.38,615.2,68.9,78.8
+2026-06-03,Indonesia-Paradip,15.23,615.2,59.6,78.8
+2026-06-03,Indonesia-Visakhapatnam,15.32,615.2,50.9,78.8
+2026-06-03,Indonesia-Haldia,16.52,615.2,70.3,78.8
+2026-06-03,Indonesia-Gangavaram,14.85,615.2,31.5,78.8
+2026-06-03,Mozambique-Visakhapatnam,23.19,615.2,49.7,78.8
+2026-06-03,Mozambique-Paradip,24.38,615.2,60.0,78.8
+2026-06-03,Mozambique-Gangavaram,23.29,615.2,38.1,78.8
+2026-06-03,United States-Paradip,42.99,615.2,60.9,78.8
+2026-06-03,United States-Gangavaram,42.2,615.2,30.5,78.8
+2026-06-03,United States-Dhamra,43.8,615.2,40.5,78.8
+2026-06-03,Russia-Paradip,36.64,615.2,60.0,78.8
+2026-06-03,Russia-Visakhapatnam,35.55,615.2,50.3,78.8
+2026-06-03,Russia-Gangavaram,35.92,615.2,36.6,78.8
+2026-06-04,Australia-Paradip,26.88,621.0,64.2,77.0
+2026-06-04,Australia-Visakhapatnam,27.62,621.0,52.6,77.0
+2026-06-04,Australia-Gangavaram,25.91,621.0,33.4,77.0
+2026-06-04,Australia-Dhamra,26.74,621.0,41.6,77.0
+2026-06-04,Australia-Gopalpur,27.77,621.0,28.3,77.0
+2026-06-04,Australia-Haldia,29.63,621.0,69.3,77.0
+2026-06-04,Indonesia-Paradip,16.36,621.0,59.5,77.0
+2026-06-04,Indonesia-Visakhapatnam,15.01,621.0,49.8,77.0
+2026-06-04,Indonesia-Haldia,16.05,621.0,73.0,77.0
+2026-06-04,Indonesia-Gangavaram,15.46,621.0,35.8,77.0
+2026-06-04,Mozambique-Visakhapatnam,23.52,621.0,48.2,77.0
+2026-06-04,Mozambique-Paradip,24.45,621.0,61.9,77.0
+2026-06-04,Mozambique-Gangavaram,22.61,621.0,32.9,77.0
+2026-06-04,United States-Paradip,43.06,621.0,62.4,77.0
+2026-06-04,United States-Gangavaram,42.28,621.0,35.9,77.0
+2026-06-04,United States-Dhamra,42.83,621.0,40.0,77.0
+2026-06-04,Russia-Paradip,36.16,621.0,62.0,77.0
+2026-06-04,Russia-Visakhapatnam,36.13,621.0,55.1,77.0
+2026-06-04,Russia-Gangavaram,35.8,621.0,33.0,77.0
+2026-06-05,Australia-Paradip,27.44,618.4,64.6,79.5
+2026-06-05,Australia-Visakhapatnam,27.23,618.4,54.2,79.5
+2026-06-05,Australia-Gangavaram,27.23,618.4,37.9,79.5
+2026-06-05,Australia-Dhamra,26.97,618.4,41.8,79.5
+2026-06-05,Australia-Gopalpur,27.74,618.4,30.5,79.5
+2026-06-05,Australia-Haldia,29.9,618.4,72.1,79.5
+2026-06-05,Indonesia-Paradip,16.4,618.4,62.9,79.5
+2026-06-05,Indonesia-Visakhapatnam,16.05,618.4,52.3,79.5
+2026-06-05,Indonesia-Haldia,17.95,618.4,71.8,79.5
+2026-06-05,Indonesia-Gangavaram,14.92,618.4,37.6,79.5
+2026-06-05,Mozambique-Visakhapatnam,23.96,618.4,50.2,79.5
+2026-06-05,Mozambique-Paradip,24.75,618.4,61.9,79.5
+2026-06-05,Mozambique-Gangavaram,23.44,618.4,37.3,79.5
+2026-06-05,United States-Paradip,42.66,618.4,60.6,79.5
+2026-06-05,United States-Gangavaram,42.81,618.4,35.4,79.5
+2026-06-05,United States-Dhamra,42.57,618.4,42.7,79.5
+2026-06-05,Russia-Paradip,36.92,618.4,62.7,79.5
+2026-06-05,Russia-Visakhapatnam,36.33,618.4,50.5,79.5
+2026-06-05,Russia-Gangavaram,35.41,618.4,36.4,79.5
+2026-06-06,Australia-Paradip,28.3,624.9,65.2,79.1
+2026-06-06,Australia-Visakhapatnam,26.8,624.9,50.3,79.1
+2026-06-06,Australia-Gangavaram,26.78,624.9,38.1,79.1
+2026-06-06,Australia-Dhamra,28.92,624.9,44.1,79.1
+2026-06-06,Australia-Gopalpur,28.63,624.9,34.2,79.1
+2026-06-06,Australia-Haldia,30.14,624.9,75.0,79.1
+2026-06-06,Indonesia-Paradip,16.48,624.9,62.4,79.1
+2026-06-06,Indonesia-Visakhapatnam,15.48,624.9,51.5,79.1
+2026-06-06,Indonesia-Haldia,17.01,624.9,72.1,79.1
+2026-06-06,Indonesia-Gangavaram,14.63,624.9,41.7,79.1
+2026-06-06,Mozambique-Visakhapatnam,23.23,624.9,54.4,79.1
+2026-06-06,Mozambique-Paradip,25.01,624.9,62.1,79.1
+2026-06-06,Mozambique-Gangavaram,23.15,624.9,37.2,79.1
+2026-06-06,United States-Paradip,43.65,624.9,61.6,79.1
+2026-06-06,United States-Gangavaram,42.66,624.9,35.6,79.1
+2026-06-06,United States-Dhamra,42.92,624.9,43.1,79.1
+2026-06-06,Russia-Paradip,37.13,624.9,67.3,79.1
+2026-06-06,Russia-Visakhapatnam,36.45,624.9,49.0,79.1
+2026-06-06,Russia-Gangavaram,36.32,624.9,35.7,79.1
+2026-06-07,Australia-Paradip,28.13,623.8,64.6,78.0
+2026-06-07,Australia-Visakhapatnam,26.95,623.8,51.2,78.0
+2026-06-07,Australia-Gangavaram,26.22,623.8,36.6,78.0
+2026-06-07,Australia-Dhamra,27.45,623.8,47.1,78.0
+2026-06-07,Australia-Gopalpur,28.45,623.8,31.1,78.0
+2026-06-07,Australia-Haldia,30.2,623.8,77.8,78.0
+2026-06-07,Indonesia-Paradip,15.89,623.8,60.6,78.0
+2026-06-07,Indonesia-Visakhapatnam,15.2,623.8,56.1,78.0
+2026-06-07,Indonesia-Haldia,17.19,623.8,74.5,78.0
+2026-06-07,Indonesia-Gangavaram,15.26,623.8,35.7,78.0
+2026-06-07,Mozambique-Visakhapatnam,23.37,623.8,47.1,78.0
+2026-06-07,Mozambique-Paradip,23.98,623.8,63.1,78.0
+2026-06-07,Mozambique-Gangavaram,22.91,623.8,40.9,78.0
+2026-06-07,United States-Paradip,43.34,623.8,62.7,78.0
+2026-06-07,United States-Gangavaram,41.91,623.8,40.5,78.0
+2026-06-07,United States-Dhamra,43.09,623.8,45.9,78.0
+2026-06-07,Russia-Paradip,36.97,623.8,61.6,78.0
+2026-06-07,Russia-Visakhapatnam,36.04,623.8,54.0,78.0
+2026-06-07,Russia-Gangavaram,35.73,623.8,37.7,78.0
+2026-06-08,Australia-Paradip,27.54,628.6,67.1,79.0
+2026-06-08,Australia-Visakhapatnam,26.56,628.6,58.2,79.0
+2026-06-08,Australia-Gangavaram,26.97,628.6,37.6,79.0
+2026-06-08,Australia-Dhamra,27.29,628.6,44.5,79.0
+2026-06-08,Australia-Gopalpur,28.14,628.6,33.5,79.0
+2026-06-08,Australia-Haldia,30.38,628.6,72.7,79.0
+2026-06-08,Indonesia-Paradip,16.06,628.6,64.6,79.0
+2026-06-08,Indonesia-Visakhapatnam,15.86,628.6,55.7,79.0
+2026-06-08,Indonesia-Haldia,17.39,628.6,75.5,79.0
+2026-06-08,Indonesia-Gangavaram,15.31,628.6,36.3,79.0
+2026-06-08,Mozambique-Visakhapatnam,24.28,628.6,55.4,79.0
+2026-06-08,Mozambique-Paradip,24.78,628.6,63.9,79.0
+2026-06-08,Mozambique-Gangavaram,23.5,628.6,40.5,79.0
+2026-06-08,United States-Paradip,43.46,628.6,65.0,79.0
+2026-06-08,United States-Gangavaram,43.18,628.6,37.5,79.0
+2026-06-08,United States-Dhamra,43.66,628.6,45.6,79.0
+2026-06-08,Russia-Paradip,37.04,628.6,66.5,79.0
+2026-06-08,Russia-Visakhapatnam,36.41,628.6,55.3,79.0
+2026-06-08,Russia-Gangavaram,36.08,628.6,38.6,79.0
+2026-06-09,Australia-Paradip,28.92,630.3,62.4,78.7
+2026-06-09,Australia-Visakhapatnam,26.9,630.3,52.0,78.7
+2026-06-09,Australia-Gangavaram,27.1,630.3,40.3,78.7
+2026-06-09,Australia-Dhamra,27.84,630.3,45.2,78.7
+2026-06-09,Australia-Gopalpur,28.03,630.3,34.0,78.7
+2026-06-09,Australia-Haldia,29.81,630.3,74.1,78.7
+2026-06-09,Indonesia-Paradip,16.33,630.3,65.9,78.7
+2026-06-09,Indonesia-Visakhapatnam,15.66,630.3,52.3,78.7
+2026-06-09,Indonesia-Haldia,16.96,630.3,74.8,78.7
+2026-06-09,Indonesia-Gangavaram,15.68,630.3,36.4,78.7
+2026-06-09,Mozambique-Visakhapatnam,23.88,630.3,54.5,78.7
+2026-06-09,Mozambique-Paradip,24.88,630.3,63.1,78.7
+2026-06-09,Mozambique-Gangavaram,23.22,630.3,35.1,78.7
+2026-06-09,United States-Paradip,43.5,630.3,62.6,78.7
+2026-06-09,United States-Gangavaram,43.38,630.3,38.6,78.7
+2026-06-09,United States-Dhamra,43.32,630.3,45.7,78.7
+2026-06-09,Russia-Paradip,36.68,630.3,64.0,78.7
+2026-06-09,Russia-Visakhapatnam,36.47,630.3,54.0,78.7
+2026-06-09,Russia-Gangavaram,35.85,630.3,38.6,78.7
+2026-06-10,Australia-Paradip,28.49,633.2,63.6,79.8
+2026-06-10,Australia-Visakhapatnam,27.47,633.2,55.2,79.8
+2026-06-10,Australia-Gangavaram,27.03,633.2,38.3,79.8
+2026-06-10,Australia-Dhamra,27.52,633.2,44.0,79.8
+2026-06-10,Australia-Gopalpur,28.83,633.2,33.9,79.8
+2026-06-10,Australia-Haldia,30.71,633.2,76.7,79.8
+2026-06-10,Indonesia-Paradip,16.32,633.2,68.1,79.8
+2026-06-10,Indonesia-Visakhapatnam,16.1,633.2,55.6,79.8
+2026-06-10,Indonesia-Haldia,17.1,633.2,78.2,79.8
+2026-06-10,Indonesia-Gangavaram,15.59,633.2,36.2,79.8
+2026-06-10,Mozambique-Visakhapatnam,24.12,633.2,49.6,79.8
+2026-06-10,Mozambique-Paradip,25.09,633.2,62.3,79.8
+2026-06-10,Mozambique-Gangavaram,24.78,633.2,38.5,79.8
+2026-06-10,United States-Paradip,43.6,633.2,65.7,79.8
+2026-06-10,United States-Gangavaram,43.22,633.2,36.0,79.8
+2026-06-10,United States-Dhamra,44.36,633.2,41.2,79.8
+2026-06-10,Russia-Paradip,37.14,633.2,66.2,79.8
+2026-06-10,Russia-Visakhapatnam,37.37,633.2,50.4,79.8
+2026-06-10,Russia-Gangavaram,36.92,633.2,37.6,79.8
+2026-06-11,Australia-Paradip,27.91,628.1,63.5,76.3
+2026-06-11,Australia-Visakhapatnam,27.44,628.1,52.6,76.3
+2026-06-11,Australia-Gangavaram,26.54,628.1,35.3,76.3
+2026-06-11,Australia-Dhamra,27.6,628.1,43.7,76.3
+2026-06-11,Australia-Gopalpur,27.74,628.1,34.9,76.3
+2026-06-11,Australia-Haldia,30.4,628.1,70.4,76.3
+2026-06-11,Indonesia-Paradip,15.89,628.1,64.1,76.3
+2026-06-11,Indonesia-Visakhapatnam,15.64,628.1,56.6,76.3
+2026-06-11,Indonesia-Haldia,17.02,628.1,75.8,76.3
+2026-06-11,Indonesia-Gangavaram,16.09,628.1,41.6,76.3
+2026-06-11,Mozambique-Visakhapatnam,24.28,628.1,53.0,76.3
+2026-06-11,Mozambique-Paradip,25.14,628.1,64.7,76.3
+2026-06-11,Mozambique-Gangavaram,23.87,628.1,35.5,76.3
+2026-06-11,United States-Paradip,42.69,628.1,65.6,76.3
+2026-06-11,United States-Gangavaram,41.78,628.1,35.1,76.3
+2026-06-11,United States-Dhamra,43.48,628.1,42.9,76.3
+2026-06-11,Russia-Paradip,36.92,628.1,66.5,76.3
+2026-06-11,Russia-Visakhapatnam,35.84,628.1,56.7,76.3
+2026-06-11,Russia-Gangavaram,35.97,628.1,34.0,76.3
+2026-06-12,Australia-Paradip,28.08,635.0,58.7,76.9
+2026-06-12,Australia-Visakhapatnam,27.69,635.0,50.2,76.9
+2026-06-12,Australia-Gangavaram,26.44,635.0,37.6,76.9
+2026-06-12,Australia-Dhamra,27.2,635.0,41.8,76.9
+2026-06-12,Australia-Gopalpur,28.8,635.0,32.7,76.9
+2026-06-12,Australia-Haldia,30.32,635.0,70.9,76.9
+2026-06-12,Indonesia-Paradip,16.1,635.0,61.8,76.9
+2026-06-12,Indonesia-Visakhapatnam,15.4,635.0,52.6,76.9
+2026-06-12,Indonesia-Haldia,16.74,635.0,71.7,76.9
+2026-06-12,Indonesia-Gangavaram,15.63,635.0,40.8,76.9
+2026-06-12,Mozambique-Visakhapatnam,24.2,635.0,51.5,76.9
+2026-06-12,Mozambique-Paradip,24.73,635.0,62.6,76.9
+2026-06-12,Mozambique-Gangavaram,24.12,635.0,38.1,76.9
+2026-06-12,United States-Paradip,43.39,635.0,61.8,76.9
+2026-06-12,United States-Gangavaram,41.9,635.0,36.3,76.9
+2026-06-12,United States-Dhamra,43.97,635.0,39.8,76.9
+2026-06-12,Russia-Paradip,37.02,635.0,66.1,76.9
+2026-06-12,Russia-Visakhapatnam,36.74,635.0,54.0,76.9
+2026-06-12,Russia-Gangavaram,36.67,635.0,43.0,76.9
+2026-06-13,Australia-Paradip,28.04,634.1,58.8,75.1
+2026-06-13,Australia-Visakhapatnam,26.69,634.1,50.5,75.1
+2026-06-13,Australia-Gangavaram,26.23,634.1,34.8,75.1
+2026-06-13,Australia-Dhamra,27.81,634.1,45.4,75.1
+2026-06-13,Australia-Gopalpur,28.85,634.1,32.0,75.1
+2026-06-13,Australia-Haldia,29.61,634.1,72.2,75.1
+2026-06-13,Indonesia-Paradip,16.47,634.1,65.1,75.1
+2026-06-13,Indonesia-Visakhapatnam,15.58,634.1,50.0,75.1
+2026-06-13,Indonesia-Haldia,16.5,634.1,70.3,75.1
+2026-06-13,Indonesia-Gangavaram,16.22,634.1,37.9,75.1
+2026-06-13,Mozambique-Visakhapatnam,24.18,634.1,49.3,75.1
+2026-06-13,Mozambique-Paradip,24.46,634.1,60.8,75.1
+2026-06-13,Mozambique-Gangavaram,23.31,634.1,34.9,75.1
+2026-06-13,United States-Paradip,43.13,634.1,62.1,75.1
+2026-06-13,United States-Gangavaram,42.64,634.1,36.6,75.1
+2026-06-13,United States-Dhamra,42.89,634.1,41.6,75.1
+2026-06-13,Russia-Paradip,37.26,634.1,60.9,75.1
+2026-06-13,Russia-Visakhapatnam,36.07,634.1,53.1,75.1
+2026-06-13,Russia-Gangavaram,36.36,634.1,36.3,75.1
+2026-06-14,Australia-Paradip,28.41,629.8,59.8,77.0
+2026-06-14,Australia-Visakhapatnam,26.76,629.8,49.6,77.0
+2026-06-14,Australia-Gangavaram,26.9,629.8,31.8,77.0
+2026-06-14,Australia-Dhamra,27.32,629.8,41.6,77.0
+2026-06-14,Australia-Gopalpur,27.81,629.8,32.4,77.0
+2026-06-14,Australia-Haldia,29.69,629.8,71.0,77.0
+2026-06-14,Indonesia-Paradip,16.5,629.8,59.8,77.0
+2026-06-14,Indonesia-Visakhapatnam,15.73,629.8,49.4,77.0
+2026-06-14,Indonesia-Haldia,17.05,629.8,73.1,77.0
+2026-06-14,Indonesia-Gangavaram,15.23,629.8,36.8,77.0
+2026-06-14,Mozambique-Visakhapatnam,24.76,629.8,52.2,77.0
+2026-06-14,Mozambique-Paradip,24.56,629.8,56.1,77.0
+2026-06-14,Mozambique-Gangavaram,23.8,629.8,36.2,77.0
+2026-06-14,United States-Paradip,43.44,629.8,61.8,77.0
+2026-06-14,United States-Gangavaram,42.82,629.8,35.3,77.0
+2026-06-14,United States-Dhamra,43.58,629.8,43.4,77.0
+2026-06-14,Russia-Paradip,37.01,629.8,61.8,77.0
+2026-06-14,Russia-Visakhapatnam,36.51,629.8,50.1,77.0
+2026-06-14,Russia-Gangavaram,36.11,629.8,35.9,77.0
+2026-06-15,Australia-Paradip,28.43,635.7,61.8,78.9
+2026-06-15,Australia-Visakhapatnam,27.69,635.7,52.4,78.9
+2026-06-15,Australia-Gangavaram,26.85,635.7,29.9,78.9
+2026-06-15,Australia-Dhamra,27.92,635.7,36.3,78.9
+2026-06-15,Australia-Gopalpur,29.53,635.7,30.0,78.9
+2026-06-15,Australia-Haldia,30.47,635.7,70.7,78.9
+2026-06-15,Indonesia-Paradip,15.97,635.7,61.7,78.9
+2026-06-15,Indonesia-Visakhapatnam,16.57,635.7,50.5,78.9
+2026-06-15,Indonesia-Haldia,18.12,635.7,67.1,78.9
+2026-06-15,Indonesia-Gangavaram,15.89,635.7,34.7,78.9
+2026-06-15,Mozambique-Visakhapatnam,25.47,635.7,51.3,78.9
+2026-06-15,Mozambique-Paradip,25.36,635.7,60.4,78.9
+2026-06-15,Mozambique-Gangavaram,23.92,635.7,33.1,78.9
+2026-06-15,United States-Paradip,43.72,635.7,61.7,78.9
+2026-06-15,United States-Gangavaram,43.07,635.7,34.2,78.9
+2026-06-15,United States-Dhamra,43.99,635.7,41.0,78.9
+2026-06-15,Russia-Paradip,37.35,635.7,62.1,78.9
+2026-06-15,Russia-Visakhapatnam,36.67,635.7,49.5,78.9
+2026-06-15,Russia-Gangavaram,36.81,635.7,33.1,78.9
+2026-06-16,Australia-Paradip,28.59,636.9,60.6,74.0
+2026-06-16,Australia-Visakhapatnam,28.1,636.9,49.7,74.0
+2026-06-16,Australia-Gangavaram,26.25,636.9,31.3,74.0
+2026-06-16,Australia-Dhamra,28.15,636.9,35.3,74.0
+2026-06-16,Australia-Gopalpur,28.33,636.9,30.2,74.0
+2026-06-16,Australia-Haldia,29.6,636.9,69.4,74.0
+2026-06-16,Indonesia-Paradip,16.4,636.9,63.7,74.0
+2026-06-16,Indonesia-Visakhapatnam,16.04,636.9,49.1,74.0
+2026-06-16,Indonesia-Haldia,17.24,636.9,69.8,74.0
+2026-06-16,Indonesia-Gangavaram,15.74,636.9,31.3,74.0
+2026-06-16,Mozambique-Visakhapatnam,24.59,636.9,52.6,74.0
+2026-06-16,Mozambique-Paradip,24.54,636.9,62.0,74.0
+2026-06-16,Mozambique-Gangavaram,23.7,636.9,30.9,74.0
+2026-06-16,United States-Paradip,43.99,636.9,59.0,74.0
+2026-06-16,United States-Gangavaram,43.36,636.9,29.5,74.0
+2026-06-16,United States-Dhamra,43.18,636.9,38.5,74.0
+2026-06-16,Russia-Paradip,36.39,636.9,56.8,74.0
+2026-06-16,Russia-Visakhapatnam,36.58,636.9,50.5,74.0
+2026-06-16,Russia-Gangavaram,35.63,636.9,30.3,74.0
+2026-06-17,Australia-Paradip,27.87,633.1,57.1,77.5
+2026-06-17,Australia-Visakhapatnam,27.66,633.1,47.2,77.5
+2026-06-17,Australia-Gangavaram,27.15,633.1,26.3,77.5
+2026-06-17,Australia-Dhamra,28.25,633.1,37.2,77.5
+2026-06-17,Australia-Gopalpur,29.22,633.1,31.3,77.5
+2026-06-17,Australia-Haldia,30.03,633.1,67.1,77.5
+2026-06-17,Indonesia-Paradip,16.79,633.1,62.8,77.5
+2026-06-17,Indonesia-Visakhapatnam,16.16,633.1,47.7,77.5
+2026-06-17,Indonesia-Haldia,17.51,633.1,68.0,77.5
+2026-06-17,Indonesia-Gangavaram,15.75,633.1,30.5,77.5
+2026-06-17,Mozambique-Visakhapatnam,24.25,633.1,47.6,77.5
+2026-06-17,Mozambique-Paradip,25.21,633.1,56.2,77.5
+2026-06-17,Mozambique-Gangavaram,24.77,633.1,31.1,77.5
+2026-06-17,United States-Paradip,44.41,633.1,52.3,77.5
+2026-06-17,United States-Gangavaram,42.34,633.1,34.1,77.5
+2026-06-17,United States-Dhamra,43.62,633.1,37.0,77.5
+2026-06-17,Russia-Paradip,37.16,633.1,54.8,77.5
+2026-06-17,Russia-Visakhapatnam,37.67,633.1,45.4,77.5
+2026-06-17,Russia-Gangavaram,37.08,633.1,33.5,77.5
+2026-06-18,Australia-Paradip,28.21,635.6,55.4,72.9
+2026-06-18,Australia-Visakhapatnam,27.6,635.6,44.0,72.9
+2026-06-18,Australia-Gangavaram,26.57,635.6,30.0,72.9
+2026-06-18,Australia-Dhamra,27.69,635.6,37.9,72.9
+2026-06-18,Australia-Gopalpur,28.78,635.6,25.7,72.9
+2026-06-18,Australia-Haldia,30.26,635.6,64.3,72.9
+2026-06-18,Indonesia-Paradip,16.19,635.6,57.7,72.9
+2026-06-18,Indonesia-Visakhapatnam,15.22,635.6,47.1,72.9
+2026-06-18,Indonesia-Haldia,17.04,635.6,68.3,72.9
+2026-06-18,Indonesia-Gangavaram,15.94,635.6,29.4,72.9
+2026-06-18,Mozambique-Visakhapatnam,23.45,635.6,45.1,72.9
+2026-06-18,Mozambique-Paradip,24.96,635.6,53.4,72.9
+2026-06-18,Mozambique-Gangavaram,24.42,635.6,27.9,72.9
+2026-06-18,United States-Paradip,44.19,635.6,52.3,72.9
+2026-06-18,United States-Gangavaram,42.68,635.6,30.9,72.9
+2026-06-18,United States-Dhamra,43.48,635.6,35.4,72.9
+2026-06-18,Russia-Paradip,37.46,635.6,56.4,72.9
+2026-06-18,Russia-Visakhapatnam,36.58,635.6,46.7,72.9
+2026-06-18,Russia-Gangavaram,36.09,635.6,29.7,72.9
+2026-06-19,Australia-Paradip,28.19,633.4,52.6,71.7
+2026-06-19,Australia-Visakhapatnam,27.12,633.4,45.7,71.7
+2026-06-19,Australia-Gangavaram,26.73,633.4,29.4,71.7
+2026-06-19,Australia-Dhamra,27.08,633.4,34.3,71.7
+2026-06-19,Australia-Gopalpur,27.8,633.4,25.7,71.7
+2026-06-19,Australia-Haldia,29.21,633.4,66.2,71.7
+2026-06-19,Indonesia-Paradip,16.38,633.4,57.4,71.7
+2026-06-19,Indonesia-Visakhapatnam,15.98,633.4,45.9,71.7
+2026-06-19,Indonesia-Haldia,17.4,633.4,68.7,71.7
+2026-06-19,Indonesia-Gangavaram,14.88,633.4,25.7,71.7
+2026-06-19,Mozambique-Visakhapatnam,23.9,633.4,44.1,71.7
+2026-06-19,Mozambique-Paradip,24.3,633.4,56.4,71.7
+2026-06-19,Mozambique-Gangavaram,23.29,633.4,29.7,71.7
+2026-06-19,United States-Paradip,42.83,633.4,54.1,71.7
+2026-06-19,United States-Gangavaram,42.05,633.4,27.5,71.7
+2026-06-19,United States-Dhamra,43.61,633.4,33.4,71.7
+2026-06-19,Russia-Paradip,37.94,633.4,53.4,71.7
+2026-06-19,Russia-Visakhapatnam,36.47,633.4,46.3,71.7
+2026-06-19,Russia-Gangavaram,36.27,633.4,27.6,71.7
+2026-06-20,Australia-Paradip,28.14,629.7,59.4,74.0
+2026-06-20,Australia-Visakhapatnam,27.2,629.7,46.6,74.0
+2026-06-20,Australia-Gangavaram,27.59,629.7,28.3,74.0
+2026-06-20,Australia-Dhamra,28.41,629.7,33.1,74.0
+2026-06-20,Australia-Gopalpur,28.26,629.7,25.7,74.0
+2026-06-20,Australia-Haldia,30.57,629.7,65.6,74.0
+2026-06-20,Indonesia-Paradip,15.85,629.7,55.6,74.0
+2026-06-20,Indonesia-Visakhapatnam,15.78,629.7,42.9,74.0
+2026-06-20,Indonesia-Haldia,17.53,629.7,64.2,74.0
+2026-06-20,Indonesia-Gangavaram,15.15,629.7,28.7,74.0
+2026-06-20,Mozambique-Visakhapatnam,24.42,629.7,45.1,74.0
+2026-06-20,Mozambique-Paradip,25.31,629.7,55.4,74.0
+2026-06-20,Mozambique-Gangavaram,24.06,629.7,30.0,74.0
+2026-06-20,United States-Paradip,43.02,629.7,54.2,74.0
+2026-06-20,United States-Gangavaram,42.96,629.7,29.2,74.0
+2026-06-20,United States-Dhamra,42.97,629.7,34.9,74.0
+2026-06-20,Russia-Paradip,37.6,629.7,52.2,74.0
+2026-06-20,Russia-Visakhapatnam,36.95,629.7,44.2,74.0
+2026-06-20,Russia-Gangavaram,36.29,629.7,28.4,74.0
+2026-06-21,Australia-Paradip,27.95,633.0,53.7,72.7
+2026-06-21,Australia-Visakhapatnam,27.31,633.0,42.6,72.7
+2026-06-21,Australia-Gangavaram,26.64,633.0,27.9,72.7
+2026-06-21,Australia-Dhamra,27.28,633.0,36.0,72.7
+2026-06-21,Australia-Gopalpur,28.26,633.0,23.1,72.7
+2026-06-21,Australia-Haldia,30.21,633.0,66.4,72.7
+2026-06-21,Indonesia-Paradip,15.84,633.0,55.5,72.7
+2026-06-21,Indonesia-Visakhapatnam,16.19,633.0,44.0,72.7
+2026-06-21,Indonesia-Haldia,17.66,633.0,63.6,72.7
+2026-06-21,Indonesia-Gangavaram,16.2,633.0,26.4,72.7
+2026-06-21,Mozambique-Visakhapatnam,23.99,633.0,48.1,72.7
+2026-06-21,Mozambique-Paradip,25.41,633.0,52.6,72.7
+2026-06-21,Mozambique-Gangavaram,23.62,633.0,30.6,72.7
+2026-06-21,United States-Paradip,43.52,633.0,52.6,72.7
+2026-06-21,United States-Gangavaram,42.47,633.0,24.8,72.7
+2026-06-21,United States-Dhamra,43.13,633.0,31.5,72.7
+2026-06-21,Russia-Paradip,37.23,633.0,53.4,72.7
+2026-06-21,Russia-Visakhapatnam,36.23,633.0,46.6,72.7
+2026-06-21,Russia-Gangavaram,36.15,633.0,29.4,72.7
+2026-06-22,Australia-Paradip,28.46,628.8,50.5,74.2
+2026-06-22,Australia-Visakhapatnam,27.8,628.8,43.1,74.2
+2026-06-22,Australia-Gangavaram,27.99,628.8,27.3,74.2
+2026-06-22,Australia-Dhamra,27.59,628.8,31.5,74.2
+2026-06-22,Australia-Gopalpur,28.38,628.8,21.5,74.2
+2026-06-22,Australia-Haldia,30.78,628.8,61.5,74.2
+2026-06-22,Indonesia-Paradip,16.38,628.8,55.6,74.2
+2026-06-22,Indonesia-Visakhapatnam,16.19,628.8,41.1,74.2
+2026-06-22,Indonesia-Haldia,17.66,628.8,61.7,74.2
+2026-06-22,Indonesia-Gangavaram,15.2,628.8,27.2,74.2
+2026-06-22,Mozambique-Visakhapatnam,25.02,628.8,45.9,74.2
+2026-06-22,Mozambique-Paradip,24.85,628.8,51.5,74.2
+2026-06-22,Mozambique-Gangavaram,24.14,628.8,27.3,74.2
+2026-06-22,United States-Paradip,44.61,628.8,54.1,74.2
+2026-06-22,United States-Gangavaram,42.68,628.8,26.4,74.2
+2026-06-22,United States-Dhamra,43.31,628.8,30.0,74.2
+2026-06-22,Russia-Paradip,38.02,628.8,52.7,74.2
+2026-06-22,Russia-Visakhapatnam,36.89,628.8,41.7,74.2
+2026-06-22,Russia-Gangavaram,36.88,628.8,26.7,74.2
+2026-06-23,Australia-Paradip,28.62,635.2,51.3,72.1
+2026-06-23,Australia-Visakhapatnam,28.24,635.2,43.7,72.1
+2026-06-23,Australia-Gangavaram,26.76,635.2,27.5,72.1
+2026-06-23,Australia-Dhamra,28.15,635.2,33.5,72.1
+2026-06-23,Australia-Gopalpur,28.71,635.2,23.9,72.1
+2026-06-23,Australia-Haldia,30.67,635.2,64.4,72.1
+2026-06-23,Indonesia-Paradip,16.77,635.2,55.1,72.1
+2026-06-23,Indonesia-Visakhapatnam,15.96,635.2,42.0,72.1
+2026-06-23,Indonesia-Haldia,16.98,635.2,64.7,72.1
+2026-06-23,Indonesia-Gangavaram,15.55,635.2,27.0,72.1
+2026-06-23,Mozambique-Visakhapatnam,24.72,635.2,42.3,72.1
+2026-06-23,Mozambique-Paradip,24.92,635.2,52.7,72.1
+2026-06-23,Mozambique-Gangavaram,24.2,635.2,23.6,72.1
+2026-06-23,United States-Paradip,44.57,635.2,53.6,72.1
+2026-06-23,United States-Gangavaram,42.99,635.2,25.7,72.1
+2026-06-23,United States-Dhamra,44.14,635.2,32.8,72.1
+2026-06-23,Russia-Paradip,37.32,635.2,52.1,72.1
+2026-06-23,Russia-Visakhapatnam,36.78,635.2,43.5,72.1
+2026-06-23,Russia-Gangavaram,36.38,635.2,25.4,72.1
+2026-06-24,Australia-Paradip,27.78,629.5,52.3,71.1
+2026-06-24,Australia-Visakhapatnam,26.75,629.5,44.4,71.1
+2026-06-24,Australia-Gangavaram,26.91,629.5,24.9,71.1
+2026-06-24,Australia-Dhamra,27.53,629.5,35.2,71.1
+2026-06-24,Australia-Gopalpur,29.11,629.5,20.9,71.1
+2026-06-24,Australia-Haldia,29.18,629.5,59.1,71.1
+2026-06-24,Indonesia-Paradip,16.16,629.5,52.9,71.1
+2026-06-24,Indonesia-Visakhapatnam,16.04,629.5,40.0,71.1
+2026-06-24,Indonesia-Haldia,16.93,629.5,62.5,71.1
+2026-06-24,Indonesia-Gangavaram,15.91,629.5,23.5,71.1
+2026-06-24,Mozambique-Visakhapatnam,24.02,629.5,43.3,71.1
+2026-06-24,Mozambique-Paradip,24.33,629.5,55.7,71.1
+2026-06-24,Mozambique-Gangavaram,23.48,629.5,23.0,71.1
+2026-06-24,United States-Paradip,43.66,629.5,51.9,71.1
+2026-06-24,United States-Gangavaram,42.9,629.5,25.6,71.1
+2026-06-24,United States-Dhamra,43.94,629.5,29.5,71.1
+2026-06-24,Russia-Paradip,37.51,629.5,51.9,71.1
+2026-06-24,Russia-Visakhapatnam,36.74,629.5,42.7,71.1
+2026-06-24,Russia-Gangavaram,36.34,629.5,27.2,71.1
+2026-06-25,Australia-Paradip,28.76,626.9,52.4,74.4
+2026-06-25,Australia-Visakhapatnam,28.35,626.9,41.8,74.4
+2026-06-25,Australia-Gangavaram,27.9,626.9,24.7,74.4
+2026-06-25,Australia-Dhamra,27.41,626.9,31.9,74.4
+2026-06-25,Australia-Gopalpur,28.51,626.9,22.3,74.4
+2026-06-25,Australia-Haldia,30.22,626.9,63.7,74.4
+2026-06-25,Indonesia-Paradip,16.02,626.9,51.1,74.4
+2026-06-25,Indonesia-Visakhapatnam,15.21,626.9,41.1,74.4
+2026-06-25,Indonesia-Haldia,17.88,626.9,58.9,74.4
+2026-06-25,Indonesia-Gangavaram,16.15,626.9,27.6,74.4
+2026-06-25,Mozambique-Visakhapatnam,24.46,626.9,40.1,74.4
+2026-06-25,Mozambique-Paradip,24.71,626.9,52.0,74.4
+2026-06-25,Mozambique-Gangavaram,24.53,626.9,29.0,74.4
+2026-06-25,United States-Paradip,43.99,626.9,51.6,74.4
+2026-06-25,United States-Gangavaram,42.36,626.9,26.4,74.4
+2026-06-25,United States-Dhamra,43.5,626.9,31.5,74.4
+2026-06-25,Russia-Paradip,37.37,626.9,50.0,74.4
+2026-06-25,Russia-Visakhapatnam,37.23,626.9,45.6,74.4
+2026-06-25,Russia-Gangavaram,36.81,626.9,24.9,74.4
+2026-06-26,Australia-Paradip,28.2,627.9,52.4,73.6
+2026-06-26,Australia-Visakhapatnam,27.92,627.9,43.6,73.6
+2026-06-26,Australia-Gangavaram,27.41,627.9,28.0,73.6
+2026-06-26,Australia-Dhamra,27.74,627.9,34.3,73.6
+2026-06-26,Australia-Gopalpur,28.84,627.9,24.9,73.6
+2026-06-26,Australia-Haldia,30.18,627.9,66.4,73.6
+2026-06-26,Indonesia-Paradip,16.84,627.9,55.7,73.6
+2026-06-26,Indonesia-Visakhapatnam,15.97,627.9,40.9,73.6
+2026-06-26,Indonesia-Haldia,17.73,627.9,61.6,73.6
+2026-06-26,Indonesia-Gangavaram,15.73,627.9,27.3,73.6
+2026-06-26,Mozambique-Visakhapatnam,25.32,627.9,42.2,73.6
+2026-06-26,Mozambique-Paradip,25.33,627.9,55.7,73.6
+2026-06-26,Mozambique-Gangavaram,24.21,627.9,26.3,73.6
+2026-06-26,United States-Paradip,43.55,627.9,53.5,73.6
+2026-06-26,United States-Gangavaram,42.49,627.9,25.7,73.6
+2026-06-26,United States-Dhamra,44.02,627.9,33.0,73.6
+2026-06-26,Russia-Paradip,38.09,627.9,51.3,73.6
+2026-06-26,Russia-Visakhapatnam,36.37,627.9,39.8,73.6
+2026-06-26,Russia-Gangavaram,36.98,627.9,26.7,73.6
+2026-06-27,Australia-Paradip,28.23,627.7,54.9,71.4
+2026-06-27,Australia-Visakhapatnam,27.9,627.7,42.4,71.4
+2026-06-27,Australia-Gangavaram,26.32,627.7,28.0,71.4
+2026-06-27,Australia-Dhamra,28.3,627.7,35.7,71.4
+2026-06-27,Australia-Gopalpur,28.71,627.7,21.4,71.4
+2026-06-27,Australia-Haldia,30.35,627.7,63.7,71.4
+2026-06-27,Indonesia-Paradip,16.28,627.7,51.6,71.4
+2026-06-27,Indonesia-Visakhapatnam,16.42,627.7,42.6,71.4
+2026-06-27,Indonesia-Haldia,17.2,627.7,63.8,71.4
+2026-06-27,Indonesia-Gangavaram,14.61,627.7,28.2,71.4
+2026-06-27,Mozambique-Visakhapatnam,23.55,627.7,45.0,71.4
+2026-06-27,Mozambique-Paradip,24.5,627.7,52.0,71.4
+2026-06-27,Mozambique-Gangavaram,24.41,627.7,24.1,71.4
+2026-06-27,United States-Paradip,43.89,627.7,51.8,71.4
+2026-06-27,United States-Gangavaram,43.14,627.7,26.6,71.4
+2026-06-27,United States-Dhamra,43.04,627.7,32.9,71.4
+2026-06-27,Russia-Paradip,37.05,627.7,54.7,71.4
+2026-06-27,Russia-Visakhapatnam,36.58,627.7,39.6,71.4
+2026-06-27,Russia-Gangavaram,36.69,627.7,29.7,71.4
+2026-06-28,Australia-Paradip,29.05,620.7,52.7,71.5
+2026-06-28,Australia-Visakhapatnam,27.69,620.7,44.1,71.5
+2026-06-28,Australia-Gangavaram,27.01,620.7,29.4,71.5
+2026-06-28,Australia-Dhamra,27.64,620.7,32.8,71.5
+2026-06-28,Australia-Gopalpur,28.5,620.7,23.2,71.5
+2026-06-28,Australia-Haldia,30.24,620.7,64.8,71.5
+2026-06-28,Indonesia-Paradip,16.48,620.7,54.8,71.5
+2026-06-28,Indonesia-Visakhapatnam,15.12,620.7,43.5,71.5
+2026-06-28,Indonesia-Haldia,17.45,620.7,65.2,71.5
+2026-06-28,Indonesia-Gangavaram,14.56,620.7,29.4,71.5
+2026-06-28,Mozambique-Visakhapatnam,24.16,620.7,47.5,71.5
+2026-06-28,Mozambique-Paradip,24.5,620.7,55.6,71.5
+2026-06-28,Mozambique-Gangavaram,23.49,620.7,28.6,71.5
+2026-06-28,United States-Paradip,44.48,620.7,52.1,71.5
+2026-06-28,United States-Gangavaram,43.0,620.7,27.0,71.5
+2026-06-28,United States-Dhamra,43.71,620.7,35.1,71.5
+2026-06-28,Russia-Paradip,37.36,620.7,53.7,71.5
+2026-06-28,Russia-Visakhapatnam,36.69,620.7,48.2,71.5
+2026-06-28,Russia-Gangavaram,36.74,620.7,27.8,71.5
+2026-06-29,Australia-Paradip,28.15,624.4,55.5,73.7
+2026-06-29,Australia-Visakhapatnam,27.44,624.4,47.5,73.7
+2026-06-29,Australia-Gangavaram,27.0,624.4,28.8,73.7
+2026-06-29,Australia-Dhamra,28.23,624.4,34.1,73.7
+2026-06-29,Australia-Gopalpur,29.07,624.4,24.9,73.7
+2026-06-29,Australia-Haldia,30.78,624.4,67.4,73.7
+2026-06-29,Indonesia-Paradip,17.29,624.4,53.7,73.7
+2026-06-29,Indonesia-Visakhapatnam,15.81,624.4,46.6,73.7
+2026-06-29,Indonesia-Haldia,17.98,624.4,65.4,73.7
+2026-06-29,Indonesia-Gangavaram,16.65,624.4,27.6,73.7
+2026-06-29,Mozambique-Visakhapatnam,24.65,624.4,43.9,73.7
+2026-06-29,Mozambique-Paradip,25.31,624.4,53.9,73.7
+2026-06-29,Mozambique-Gangavaram,23.73,624.4,26.0,73.7
+2026-06-29,United States-Paradip,43.76,624.4,57.4,73.7
+2026-06-29,United States-Gangavaram,42.44,624.4,26.2,73.7
+2026-06-29,United States-Dhamra,43.37,624.4,32.9,73.7
+2026-06-29,Russia-Paradip,38.01,624.4,57.5,73.7
+2026-06-29,Russia-Visakhapatnam,38.0,624.4,42.8,73.7
+2026-06-29,Russia-Gangavaram,36.57,624.4,30.2,73.7
+2026-06-30,Australia-Paradip,28.04,613.1,52.4,75.4
+2026-06-30,Australia-Visakhapatnam,28.97,613.1,47.3,75.4
+2026-06-30,Australia-Gangavaram,27.62,613.1,32.0,75.4
+2026-06-30,Australia-Dhamra,28.54,613.1,36.4,75.4
+2026-06-30,Australia-Gopalpur,29.11,613.1,26.7,75.4
+2026-06-30,Australia-Haldia,30.67,613.1,65.4,75.4
+2026-06-30,Indonesia-Paradip,16.88,613.1,53.7,75.4
+2026-06-30,Indonesia-Visakhapatnam,16.36,613.1,41.8,75.4
+2026-06-30,Indonesia-Haldia,17.35,613.1,63.2,75.4
+2026-06-30,Indonesia-Gangavaram,16.75,613.1,29.6,75.4
+2026-06-30,Mozambique-Visakhapatnam,24.07,613.1,47.0,75.4
+2026-06-30,Mozambique-Paradip,25.77,613.1,53.2,75.4
+2026-06-30,Mozambique-Gangavaram,24.31,613.1,27.2,75.4
+2026-06-30,United States-Paradip,43.81,613.1,56.3,75.4
+2026-06-30,United States-Gangavaram,42.86,613.1,29.4,75.4
+2026-06-30,United States-Dhamra,44.12,613.1,34.0,75.4
+2026-06-30,Russia-Paradip,37.87,613.1,52.0,75.4
+2026-06-30,Russia-Visakhapatnam,37.42,613.1,45.2,75.4
+2026-06-30,Russia-Gangavaram,37.34,613.1,29.7,75.4
+2026-07-01,Australia-Paradip,28.61,620.7,56.6,71.4
+2026-07-01,Australia-Visakhapatnam,27.71,620.7,46.4,71.4
+2026-07-01,Australia-Gangavaram,26.83,620.7,28.9,71.4
+2026-07-01,Australia-Dhamra,28.59,620.7,33.5,71.4
+2026-07-01,Australia-Gopalpur,28.41,620.7,23.8,71.4
+2026-07-01,Australia-Haldia,30.75,620.7,64.9,71.4
+2026-07-01,Indonesia-Paradip,17.19,620.7,55.7,71.4
+2026-07-01,Indonesia-Visakhapatnam,16.2,620.7,45.0,71.4
+2026-07-01,Indonesia-Haldia,18.35,620.7,64.7,71.4
+2026-07-01,Indonesia-Gangavaram,16.01,620.7,27.9,71.4
+2026-07-01,Mozambique-Visakhapatnam,24.56,620.7,47.6,71.4
+2026-07-01,Mozambique-Paradip,25.04,620.7,56.0,71.4
+2026-07-01,Mozambique-Gangavaram,24.03,620.7,30.4,71.4
+2026-07-01,United States-Paradip,44.77,620.7,58.3,71.4
+2026-07-01,United States-Gangavaram,42.54,620.7,29.2,71.4
+2026-07-01,United States-Dhamra,44.72,620.7,36.1,71.4
+2026-07-01,Russia-Paradip,38.05,620.7,54.7,71.4
+2026-07-01,Russia-Visakhapatnam,36.67,620.7,49.7,71.4
+2026-07-01,Russia-Gangavaram,37.14,620.7,31.5,71.4
+2026-07-02,Australia-Paradip,28.08,619.3,56.3,71.9
+2026-07-02,Australia-Visakhapatnam,27.3,619.3,46.2,71.9
+2026-07-02,Australia-Gangavaram,26.88,619.3,31.6,71.9
+2026-07-02,Australia-Dhamra,27.36,619.3,38.0,71.9
+2026-07-02,Australia-Gopalpur,29.12,619.3,28.2,71.9
+2026-07-02,Australia-Haldia,30.64,619.3,63.5,71.9
+2026-07-02,Indonesia-Paradip,16.3,619.3,60.0,71.9
+2026-07-02,Indonesia-Visakhapatnam,16.35,619.3,50.8,71.9
+2026-07-02,Indonesia-Haldia,17.56,619.3,66.1,71.9
+2026-07-02,Indonesia-Gangavaram,16.02,619.3,32.6,71.9
+2026-07-02,Mozambique-Visakhapatnam,24.12,619.3,48.6,71.9
+2026-07-02,Mozambique-Paradip,24.62,619.3,57.8,71.9
+2026-07-02,Mozambique-Gangavaram,23.83,619.3,31.3,71.9
+2026-07-02,United States-Paradip,44.48,619.3,56.0,71.9
+2026-07-02,United States-Gangavaram,43.43,619.3,33.7,71.9
+2026-07-02,United States-Dhamra,43.66,619.3,35.3,71.9
+2026-07-02,Russia-Paradip,37.54,619.3,59.9,71.9
+2026-07-02,Russia-Visakhapatnam,37.14,619.3,52.1,71.9
+2026-07-02,Russia-Gangavaram,36.46,619.3,31.9,71.9
+2026-07-03,Australia-Paradip,28.99,621.1,60.1,72.2
+2026-07-03,Australia-Visakhapatnam,27.38,621.1,47.1,72.2
+2026-07-03,Australia-Gangavaram,27.51,621.1,29.0,72.2
+2026-07-03,Australia-Dhamra,27.25,621.1,36.5,72.2
+2026-07-03,Australia-Gopalpur,29.91,621.1,29.5,72.2
+2026-07-03,Australia-Haldia,30.94,621.1,68.7,72.2
+2026-07-03,Indonesia-Paradip,16.87,621.1,58.9,72.2
+2026-07-03,Indonesia-Visakhapatnam,16.19,621.1,50.5,72.2
+2026-07-03,Indonesia-Haldia,17.84,621.1,69.2,72.2
+2026-07-03,Indonesia-Gangavaram,16.51,621.1,31.4,72.2
+2026-07-03,Mozambique-Visakhapatnam,24.31,621.1,48.3,72.2
+2026-07-03,Mozambique-Paradip,24.95,621.1,59.8,72.2
+2026-07-03,Mozambique-Gangavaram,24.31,621.1,32.8,72.2
+2026-07-03,United States-Paradip,44.3,621.1,60.9,72.2
+2026-07-03,United States-Gangavaram,43.64,621.1,32.6,72.2
+2026-07-03,United States-Dhamra,44.13,621.1,41.5,72.2
+2026-07-03,Russia-Paradip,37.08,621.1,58.7,72.2
+2026-07-03,Russia-Visakhapatnam,36.99,621.1,46.6,72.2
+2026-07-03,Russia-Gangavaram,36.63,621.1,31.5,72.2
+2026-07-04,Australia-Paradip,29.02,621.6,59.7,73.5
+2026-07-04,Australia-Visakhapatnam,27.34,621.6,50.0,73.5
+2026-07-04,Australia-Gangavaram,27.47,621.6,32.0,73.5
+2026-07-04,Australia-Dhamra,28.57,621.6,37.4,73.5
+2026-07-04,Australia-Gopalpur,29.62,621.6,32.9,73.5
+2026-07-04,Australia-Haldia,31.43,621.6,69.4,73.5
+2026-07-04,Indonesia-Paradip,17.0,621.6,60.2,73.5
+2026-07-04,Indonesia-Visakhapatnam,16.41,621.6,48.6,73.5
+2026-07-04,Indonesia-Haldia,18.0,621.6,69.1,73.5
+2026-07-04,Indonesia-Gangavaram,16.33,621.6,34.2,73.5
+2026-07-04,Mozambique-Visakhapatnam,25.31,621.6,50.7,73.5
+2026-07-04,Mozambique-Paradip,24.94,621.6,61.8,73.5
+2026-07-04,Mozambique-Gangavaram,24.9,621.6,28.8,73.5
+2026-07-04,United States-Paradip,44.24,621.6,57.1,73.5
+2026-07-04,United States-Gangavaram,42.81,621.6,31.5,73.5
+2026-07-04,United States-Dhamra,44.43,621.6,41.0,73.5
+2026-07-04,Russia-Paradip,36.79,621.6,58.7,73.5
+2026-07-04,Russia-Visakhapatnam,37.49,621.6,48.8,73.5
+2026-07-04,Russia-Gangavaram,37.0,621.6,30.9,73.5
+2026-07-05,Australia-Paradip,28.56,622.3,61.2,73.9
+2026-07-05,Australia-Visakhapatnam,28.19,622.3,53.4,73.9
+2026-07-05,Australia-Gangavaram,27.28,622.3,34.9,73.9
+2026-07-05,Australia-Dhamra,28.09,622.3,40.1,73.9
+2026-07-05,Australia-Gopalpur,29.93,622.3,30.6,73.9
+2026-07-05,Australia-Haldia,30.3,622.3,68.2,73.9
+2026-07-05,Indonesia-Paradip,17.17,622.3,63.9,73.9
+2026-07-05,Indonesia-Visakhapatnam,17.06,622.3,49.6,73.9
+2026-07-05,Indonesia-Haldia,18.78,622.3,69.8,73.9
+2026-07-05,Indonesia-Gangavaram,16.25,622.3,36.3,73.9
+2026-07-05,Mozambique-Visakhapatnam,24.71,622.3,55.3,73.9
+2026-07-05,Mozambique-Paradip,25.77,622.3,62.4,73.9
+2026-07-05,Mozambique-Gangavaram,25.27,622.3,37.6,73.9
+2026-07-05,United States-Paradip,44.15,622.3,61.0,73.9
+2026-07-05,United States-Gangavaram,43.38,622.3,35.9,73.9
+2026-07-05,United States-Dhamra,44.3,622.3,45.0,73.9
+2026-07-05,Russia-Paradip,38.02,622.3,60.2,73.9
+2026-07-05,Russia-Visakhapatnam,37.06,622.3,48.3,73.9
+2026-07-05,Russia-Gangavaram,36.79,622.3,37.4,73.9
+2026-07-06,Australia-Paradip,29.31,620.5,64.3,74.2
+2026-07-06,Australia-Visakhapatnam,28.02,620.5,53.9,74.2
+2026-07-06,Australia-Gangavaram,28.32,620.5,33.1,74.2
+2026-07-06,Australia-Dhamra,28.42,620.5,41.3,74.2
+2026-07-06,Australia-Gopalpur,29.54,620.5,34.6,74.2
+2026-07-06,Australia-Haldia,31.89,620.5,72.9,74.2
+2026-07-06,Indonesia-Paradip,17.69,620.5,60.7,74.2
+2026-07-06,Indonesia-Visakhapatnam,16.83,620.5,52.1,74.2
+2026-07-06,Indonesia-Haldia,18.32,620.5,75.0,74.2
+2026-07-06,Indonesia-Gangavaram,16.95,620.5,37.0,74.2
+2026-07-06,Mozambique-Visakhapatnam,24.68,620.5,51.2,74.2
+2026-07-06,Mozambique-Paradip,24.93,620.5,59.9,74.2
+2026-07-06,Mozambique-Gangavaram,24.28,620.5,40.1,74.2
+2026-07-06,United States-Paradip,44.41,620.5,61.5,74.2
+2026-07-06,United States-Gangavaram,44.05,620.5,36.6,74.2
+2026-07-06,United States-Dhamra,44.09,620.5,43.7,74.2
+2026-07-06,Russia-Paradip,38.13,620.5,61.6,74.2
+2026-07-06,Russia-Visakhapatnam,38.16,620.5,51.4,74.2
+2026-07-06,Russia-Gangavaram,37.41,620.5,36.9,74.2
+2026-07-07,Australia-Paradip,28.83,627.2,63.1,75.6
+2026-07-07,Australia-Visakhapatnam,28.39,627.2,53.6,75.6
+2026-07-07,Australia-Gangavaram,28.28,627.2,35.7,75.6
+2026-07-07,Australia-Dhamra,28.86,627.2,45.2,75.6
+2026-07-07,Australia-Gopalpur,30.33,627.2,33.4,75.6
+2026-07-07,Australia-Haldia,32.39,627.2,73.2,75.6
+2026-07-07,Indonesia-Paradip,16.94,627.2,63.9,75.6
+2026-07-07,Indonesia-Visakhapatnam,17.2,627.2,54.3,75.6
+2026-07-07,Indonesia-Haldia,18.72,627.2,75.3,75.6
+2026-07-07,Indonesia-Gangavaram,16.36,627.2,36.5,75.6
+2026-07-07,Mozambique-Visakhapatnam,25.01,627.2,52.3,75.6
+2026-07-07,Mozambique-Paradip,26.28,627.2,61.6,75.6
+2026-07-07,Mozambique-Gangavaram,25.2,627.2,40.1,75.6
+2026-07-07,United States-Paradip,45.02,627.2,60.4,75.6
+2026-07-07,United States-Gangavaram,43.8,627.2,39.2,75.6
+2026-07-07,United States-Dhamra,44.65,627.2,42.5,75.6
+2026-07-07,Russia-Paradip,38.61,627.2,61.2,75.6
+2026-07-07,Russia-Visakhapatnam,38.01,627.2,52.5,75.6
+2026-07-07,Russia-Gangavaram,37.27,627.2,35.0,75.6
+2026-07-08,Australia-Paradip,29.06,629.2,66.8,73.8
+2026-07-08,Australia-Visakhapatnam,28.89,629.2,53.8,73.8
+2026-07-08,Australia-Gangavaram,27.21,629.2,34.6,73.8
+2026-07-08,Australia-Dhamra,29.22,629.2,40.3,73.8
+2026-07-08,Australia-Gopalpur,30.54,629.2,32.3,73.8
+2026-07-08,Australia-Haldia,31.29,629.2,72.3,73.8
+2026-07-08,Indonesia-Paradip,18.32,629.2,66.5,73.8
+2026-07-08,Indonesia-Visakhapatnam,17.4,629.2,57.5,73.8
+2026-07-08,Indonesia-Haldia,18.55,629.2,75.4,73.8
+2026-07-08,Indonesia-Gangavaram,16.5,629.2,38.9,73.8
+2026-07-08,Mozambique-Visakhapatnam,25.22,629.2,51.8,73.8
+2026-07-08,Mozambique-Paradip,25.74,629.2,63.1,73.8
+2026-07-08,Mozambique-Gangavaram,25.3,629.2,38.8,73.8
+2026-07-08,United States-Paradip,45.31,629.2,63.6,73.8
+2026-07-08,United States-Gangavaram,43.84,629.2,35.1,73.8
+2026-07-08,United States-Dhamra,43.77,629.2,42.0,73.8
+2026-07-08,Russia-Paradip,38.17,629.2,63.2,73.8
+2026-07-08,Russia-Visakhapatnam,37.97,629.2,56.4,73.8
+2026-07-08,Russia-Gangavaram,38.06,629.2,35.3,73.8
+2026-07-09,Australia-Paradip,29.18,632.7,63.4,75.7
+2026-07-09,Australia-Visakhapatnam,29.3,632.7,53.1,75.7
+2026-07-09,Australia-Gangavaram,28.89,632.7,41.6,75.7
+2026-07-09,Australia-Dhamra,28.62,632.7,42.8,75.7
+2026-07-09,Australia-Gopalpur,29.16,632.7,34.1,75.7
+2026-07-09,Australia-Haldia,31.51,632.7,74.5,75.7
+2026-07-09,Indonesia-Paradip,17.23,632.7,62.9,75.7
+2026-07-09,Indonesia-Visakhapatnam,17.06,632.7,54.8,75.7
+2026-07-09,Indonesia-Haldia,17.52,632.7,71.5,75.7
+2026-07-09,Indonesia-Gangavaram,17.78,632.7,37.8,75.7
+2026-07-09,Mozambique-Visakhapatnam,25.39,632.7,57.1,75.7
+2026-07-09,Mozambique-Paradip,26.46,632.7,62.6,75.7
+2026-07-09,Mozambique-Gangavaram,25.39,632.7,35.8,75.7
+2026-07-09,United States-Paradip,45.56,632.7,65.3,75.7
+2026-07-09,United States-Gangavaram,44.19,632.7,37.6,75.7
+2026-07-09,United States-Dhamra,44.54,632.7,42.1,75.7
+2026-07-09,Russia-Paradip,38.72,632.7,63.4,75.7
+2026-07-09,Russia-Visakhapatnam,37.75,632.7,55.6,75.7
+2026-07-09,Russia-Gangavaram,37.56,632.7,40.8,75.7
+2026-07-10,Australia-Paradip,29.79,631.3,59.1,74.3
+2026-07-10,Australia-Visakhapatnam,28.63,631.3,55.5,74.3
+2026-07-10,Australia-Gangavaram,28.35,631.3,38.1,74.3
+2026-07-10,Australia-Dhamra,28.73,631.3,40.9,74.3
+2026-07-10,Australia-Gopalpur,29.24,631.3,35.6,74.3
+2026-07-10,Australia-Haldia,30.9,631.3,74.6,74.3
+2026-07-10,Indonesia-Paradip,17.72,631.3,64.9,74.3
+2026-07-10,Indonesia-Visakhapatnam,17.6,631.3,50.8,74.3
+2026-07-10,Indonesia-Haldia,18.21,631.3,72.5,74.3
+2026-07-10,Indonesia-Gangavaram,17.4,631.3,38.4,74.3
+2026-07-10,Mozambique-Visakhapatnam,25.46,631.3,52.0,74.3
+2026-07-10,Mozambique-Paradip,26.42,631.3,64.8,74.3
+2026-07-10,Mozambique-Gangavaram,24.99,631.3,38.3,74.3
+2026-07-10,United States-Paradip,44.97,631.3,62.3,74.3
+2026-07-10,United States-Gangavaram,42.97,631.3,35.8,74.3
+2026-07-10,United States-Dhamra,45.1,631.3,44.9,74.3
+2026-07-10,Russia-Paradip,38.04,631.3,59.3,74.3
+2026-07-10,Russia-Visakhapatnam,38.76,631.3,55.2,74.3
+2026-07-10,Russia-Gangavaram,37.25,631.3,38.0,74.3
+2026-07-11,Australia-Paradip,29.67,633.4,62.6,78.1
+2026-07-11,Australia-Visakhapatnam,28.91,633.4,53.0,78.1
+2026-07-11,Australia-Gangavaram,29.34,633.4,38.2,78.1
+2026-07-11,Australia-Dhamra,29.39,633.4,44.6,78.1
+2026-07-11,Australia-Gopalpur,29.66,633.4,33.4,78.1
+2026-07-11,Australia-Haldia,31.96,633.4,75.7,78.1
+2026-07-11,Indonesia-Paradip,19.56,633.4,63.6,78.1
+2026-07-11,Indonesia-Visakhapatnam,17.39,633.4,54.5,78.1
+2026-07-11,Indonesia-Haldia,19.55,633.4,73.1,78.1
+2026-07-11,Indonesia-Gangavaram,16.91,633.4,38.2,78.1
+2026-07-11,Mozambique-Visakhapatnam,25.72,633.4,55.8,78.1
+2026-07-11,Mozambique-Paradip,27.12,633.4,67.7,78.1
+2026-07-11,Mozambique-Gangavaram,26.2,633.4,37.0,78.1
+2026-07-11,United States-Paradip,45.83,633.4,64.1,78.1
+2026-07-11,United States-Gangavaram,44.35,633.4,38.9,78.1
+2026-07-11,United States-Dhamra,45.7,633.4,42.6,78.1
+2026-07-11,Russia-Paradip,38.83,633.4,63.3,78.1
+2026-07-11,Russia-Visakhapatnam,38.66,633.4,52.0,78.1
+2026-07-11,Russia-Gangavaram,37.66,633.4,42.1,78.1
+2026-07-12,Australia-Paradip,30.37,636.7,63.5,78.9
+2026-07-12,Australia-Visakhapatnam,29.66,636.7,51.5,78.9
+2026-07-12,Australia-Gangavaram,29.28,636.7,37.3,78.9
+2026-07-12,Australia-Dhamra,30.72,636.7,46.0,78.9
+2026-07-12,Australia-Gopalpur,30.61,636.7,34.8,78.9
+2026-07-12,Australia-Haldia,32.04,636.7,74.0,78.9
+2026-07-12,Indonesia-Paradip,18.37,636.7,64.3,78.9
+2026-07-12,Indonesia-Visakhapatnam,18.41,636.7,54.0,78.9
+2026-07-12,Indonesia-Haldia,19.74,636.7,71.6,78.9
+2026-07-12,Indonesia-Gangavaram,17.64,636.7,40.3,78.9
+2026-07-12,Mozambique-Visakhapatnam,25.94,636.7,49.4,78.9
+2026-07-12,Mozambique-Paradip,26.88,636.7,66.2,78.9
+2026-07-12,Mozambique-Gangavaram,25.68,636.7,35.6,78.9
+2026-07-12,United States-Paradip,45.9,636.7,65.3,78.9
+2026-07-12,United States-Gangavaram,44.74,636.7,37.2,78.9
+2026-07-12,United States-Dhamra,45.12,636.7,42.9,78.9
+2026-07-12,Russia-Paradip,39.06,636.7,66.9,78.9
+2026-07-12,Russia-Visakhapatnam,39.29,636.7,56.1,78.9
+2026-07-12,Russia-Gangavaram,38.11,636.7,39.6,78.9
+2026-07-13,Australia-Paradip,30.26,640.6,61.3,77.4
+2026-07-13,Australia-Visakhapatnam,29.91,640.6,50.8,77.4
+2026-07-13,Australia-Gangavaram,28.91,640.6,36.2,77.4
+2026-07-13,Australia-Dhamra,29.53,640.6,43.7,77.4
+2026-07-13,Australia-Gopalpur,30.24,640.6,34.3,77.4
+2026-07-13,Australia-Haldia,31.59,640.6,74.9,77.4
+2026-07-13,Indonesia-Paradip,19.21,640.6,63.4,77.4
+2026-07-13,Indonesia-Visakhapatnam,17.56,640.6,51.1,77.4
+2026-07-13,Indonesia-Haldia,19.3,640.6,74.2,77.4
+2026-07-13,Indonesia-Gangavaram,17.83,640.6,37.8,77.4
+2026-07-13,Mozambique-Visakhapatnam,26.57,640.6,54.4,77.4
+2026-07-13,Mozambique-Paradip,26.73,640.6,63.9,77.4
+2026-07-13,Mozambique-Gangavaram,26.59,640.6,38.5,77.4
+2026-07-13,United States-Paradip,45.24,640.6,62.9,77.4
+2026-07-13,United States-Gangavaram,44.78,640.6,39.3,77.4
+2026-07-13,United States-Dhamra,45.77,640.6,38.8,77.4
+2026-07-13,Russia-Paradip,39.09,640.6,62.1,77.4
+2026-07-13,Russia-Visakhapatnam,38.71,640.6,53.8,77.4
+2026-07-13,Russia-Gangavaram,38.06,640.6,38.5,77.4
+2026-07-14,Australia-Paradip,30.53,643.8,63.9,77.8
+2026-07-14,Australia-Visakhapatnam,30.02,643.8,50.5,77.8
+2026-07-14,Australia-Gangavaram,29.31,643.8,35.3,77.8
+2026-07-14,Australia-Dhamra,30.52,643.8,43.1,77.8
+2026-07-14,Australia-Gopalpur,30.44,643.8,32.0,77.8
+2026-07-14,Australia-Haldia,32.16,643.8,72.4,77.8
+2026-07-14,Indonesia-Paradip,17.94,643.8,64.0,77.8
+2026-07-14,Indonesia-Visakhapatnam,17.56,643.8,50.3,77.8
+2026-07-14,Indonesia-Haldia,20.07,643.8,74.3,77.8
+2026-07-14,Indonesia-Gangavaram,17.72,643.8,36.2,77.8
+2026-07-14,Mozambique-Visakhapatnam,26.75,643.8,52.5,77.8
+2026-07-14,Mozambique-Paradip,27.08,643.8,60.6,77.8
+2026-07-14,Mozambique-Gangavaram,26.18,643.8,38.4,77.8
+2026-07-14,United States-Paradip,46.18,643.8,62.8,77.8
+2026-07-14,United States-Gangavaram,45.26,643.8,31.0,77.8
+2026-07-14,United States-Dhamra,44.85,643.8,41.1,77.8
+2026-07-14,Russia-Paradip,39.83,643.8,63.4,77.8
+2026-07-14,Russia-Visakhapatnam,39.17,643.8,52.1,77.8
+2026-07-14,Russia-Gangavaram,38.91,643.8,39.6,77.8
+2026-07-15,Australia-Paradip,30.07,650.2,61.7,80.1
+2026-07-15,Australia-Visakhapatnam,29.67,650.2,51.0,80.1
+2026-07-15,Australia-Gangavaram,29.34,650.2,39.9,80.1
+2026-07-15,Australia-Dhamra,30.43,650.2,41.8,80.1
+2026-07-15,Australia-Gopalpur,31.69,650.2,31.6,80.1
+2026-07-15,Australia-Haldia,32.79,650.2,70.3,80.1
+2026-07-15,Indonesia-Paradip,18.48,650.2,60.0,80.1
+2026-07-15,Indonesia-Visakhapatnam,18.4,650.2,50.3,80.1
+2026-07-15,Indonesia-Haldia,19.53,650.2,70.7,80.1
+2026-07-15,Indonesia-Gangavaram,18.18,650.2,32.7,80.1
+2026-07-15,Mozambique-Visakhapatnam,27.01,650.2,48.5,80.1
+2026-07-15,Mozambique-Paradip,26.83,650.2,61.7,80.1
+2026-07-15,Mozambique-Gangavaram,26.11,650.2,34.9,80.1
+2026-07-15,United States-Paradip,46.75,650.2,62.1,80.1
+2026-07-15,United States-Gangavaram,45.46,650.2,31.8,80.1
+2026-07-15,United States-Dhamra,46.28,650.2,41.2,80.1
+2026-07-15,Russia-Paradip,39.41,650.2,61.9,80.1
+2026-07-15,Russia-Visakhapatnam,38.89,650.2,50.9,80.1
+2026-07-15,Russia-Gangavaram,38.82,650.2,37.7,80.1
+2026-07-16,Australia-Paradip,30.17,653.9,59.1,79.6
+2026-07-16,Australia-Visakhapatnam,29.44,653.9,46.9,79.6
+2026-07-16,Australia-Gangavaram,29.68,653.9,35.0,79.6
+2026-07-16,Australia-Dhamra,30.63,653.9,37.3,79.6
+2026-07-16,Australia-Gopalpur,31.13,653.9,29.5,79.6
+2026-07-16,Australia-Haldia,33.13,653.9,73.7,79.6
+2026-07-16,Indonesia-Paradip,18.72,653.9,59.9,79.6
+2026-07-16,Indonesia-Visakhapatnam,18.19,653.9,46.2,79.6
+2026-07-16,Indonesia-Haldia,19.48,653.9,70.1,79.6
+2026-07-16,Indonesia-Gangavaram,18.31,653.9,34.2,79.6
+2026-07-16,Mozambique-Visakhapatnam,26.52,653.9,50.0,79.6
+2026-07-16,Mozambique-Paradip,27.65,653.9,60.8,79.6
+2026-07-16,Mozambique-Gangavaram,27.04,653.9,32.3,79.6
+2026-07-16,United States-Paradip,46.28,653.9,60.3,79.6
+2026-07-16,United States-Gangavaram,45.57,653.9,35.9,79.6
+2026-07-16,United States-Dhamra,46.19,653.9,42.4,79.6
+2026-07-16,Russia-Paradip,39.92,653.9,59.2,79.6
+2026-07-16,Russia-Visakhapatnam,39.32,653.9,48.2,79.6
+2026-07-16,Russia-Gangavaram,38.79,653.9,34.4,79.6
+2026-07-17,Australia-Paradip,30.59,650.7,58.2,77.7
+2026-07-17,Australia-Visakhapatnam,29.44,650.7,49.7,77.7
+2026-07-17,Australia-Gangavaram,28.91,650.7,35.9,77.7
+2026-07-17,Australia-Dhamra,30.23,650.7,41.3,77.7
+2026-07-17,Australia-Gopalpur,31.56,650.7,28.0,77.7
+2026-07-17,Australia-Haldia,32.92,650.7,67.0,77.7
+2026-07-17,Indonesia-Paradip,18.59,650.7,61.3,77.7
+2026-07-17,Indonesia-Visakhapatnam,18.15,650.7,52.1,77.7
+2026-07-17,Indonesia-Haldia,19.76,650.7,69.9,77.7
+2026-07-17,Indonesia-Gangavaram,18.38,650.7,33.1,77.7
+2026-07-17,Mozambique-Visakhapatnam,25.86,650.7,50.9,77.7
+2026-07-17,Mozambique-Paradip,26.59,650.7,61.9,77.7
+2026-07-17,Mozambique-Gangavaram,26.71,650.7,35.4,77.7
+2026-07-17,United States-Paradip,45.89,650.7,57.2,77.7
+2026-07-17,United States-Gangavaram,45.17,650.7,31.1,77.7
+2026-07-17,United States-Dhamra,46.17,650.7,38.7,77.7
+2026-07-17,Russia-Paradip,40.11,650.7,62.0,77.7
+2026-07-17,Russia-Visakhapatnam,38.97,650.7,48.2,77.7
+2026-07-17,Russia-Gangavaram,38.33,650.7,30.0,77.7
+2026-07-18,Australia-Paradip,31.19,656.8,55.7,83.7
+2026-07-18,Australia-Visakhapatnam,30.84,656.8,48.1,83.7
+2026-07-18,Australia-Gangavaram,30.3,656.8,30.5,83.7
+2026-07-18,Australia-Dhamra,30.93,656.8,37.2,83.7
+2026-07-18,Australia-Gopalpur,31.73,656.8,29.2,83.7
+2026-07-18,Australia-Haldia,33.39,656.8,67.3,83.7
+2026-07-18,Indonesia-Paradip,19.58,656.8,58.0,83.7
+2026-07-18,Indonesia-Visakhapatnam,19.77,656.8,47.6,83.7
+2026-07-18,Indonesia-Haldia,20.41,656.8,69.3,83.7
+2026-07-18,Indonesia-Gangavaram,18.8,656.8,33.5,83.7
+2026-07-18,Mozambique-Visakhapatnam,27.58,656.8,50.5,83.7
+2026-07-18,Mozambique-Paradip,28.31,656.8,57.9,83.7
+2026-07-18,Mozambique-Gangavaram,26.68,656.8,29.0,83.7
+2026-07-18,United States-Paradip,46.99,656.8,55.8,83.7
+2026-07-18,United States-Gangavaram,47.02,656.8,35.6,83.7
+2026-07-18,United States-Dhamra,46.93,656.8,39.4,83.7
+2026-07-18,Russia-Paradip,40.21,656.8,54.5,83.7
+2026-07-18,Russia-Visakhapatnam,39.68,656.8,46.6,83.7
+2026-07-18,Russia-Gangavaram,39.34,656.8,31.8,83.7
+2026-07-19,Australia-Paradip,31.43,650.6,54.8,83.2
+2026-07-19,Australia-Visakhapatnam,30.27,650.6,51.1,83.2
+2026-07-19,Australia-Gangavaram,29.92,650.6,25.9,83.2
+2026-07-19,Australia-Dhamra,31.62,650.6,39.2,83.2
+2026-07-19,Australia-Gopalpur,31.84,650.6,24.5,83.2
+2026-07-19,Australia-Haldia,33.3,650.6,66.0,83.2
+2026-07-19,Indonesia-Paradip,19.04,650.6,62.2,83.2
+2026-07-19,Indonesia-Visakhapatnam,19.23,650.6,47.5,83.2
+2026-07-19,Indonesia-Haldia,20.48,650.6,69.1,83.2
+2026-07-19,Indonesia-Gangavaram,18.68,650.6,31.6,83.2
+2026-07-19,Mozambique-Visakhapatnam,27.2,650.6,47.5,83.2
+2026-07-19,Mozambique-Paradip,27.89,650.6,58.2,83.2
+2026-07-19,Mozambique-Gangavaram,27.03,650.6,31.7,83.2
+2026-07-19,United States-Paradip,46.82,650.6,59.2,83.2
+2026-07-19,United States-Gangavaram,46.54,650.6,27.4,83.2
+2026-07-19,United States-Dhamra,46.38,650.6,35.1,83.2
+2026-07-19,Russia-Paradip,40.89,650.6,55.8,83.2
+2026-07-19,Russia-Visakhapatnam,41.09,650.6,42.7,83.2
+2026-07-19,Russia-Gangavaram,39.53,650.6,33.1,83.2
+2026-07-20,Australia-Paradip,31.79,658.9,56.8,83.3
+2026-07-20,Australia-Visakhapatnam,30.87,658.9,46.9,83.3
+2026-07-20,Australia-Gangavaram,30.17,658.9,29.4,83.3
+2026-07-20,Australia-Dhamra,31.49,658.9,35.4,83.3
+2026-07-20,Australia-Gopalpur,30.66,658.9,27.0,83.3
+2026-07-20,Australia-Haldia,33.61,658.9,67.1,83.3
+2026-07-20,Indonesia-Paradip,19.68,658.9,55.8,83.3
+2026-07-20,Indonesia-Visakhapatnam,19.61,658.9,48.0,83.3
+2026-07-20,Indonesia-Haldia,20.8,658.9,64.3,83.3
+2026-07-20,Indonesia-Gangavaram,18.48,658.9,27.9,83.3
+2026-07-20,Mozambique-Visakhapatnam,27.88,658.9,44.5,83.3
+2026-07-20,Mozambique-Paradip,28.44,658.9,57.7,83.3
+2026-07-20,Mozambique-Gangavaram,27.44,658.9,31.3,83.3
+2026-07-20,United States-Paradip,47.21,658.9,54.5,83.3
+2026-07-20,United States-Gangavaram,46.54,658.9,31.4,83.3
+2026-07-20,United States-Dhamra,47.12,658.9,38.2,83.3
+2026-07-20,Russia-Paradip,40.96,658.9,56.5,83.3
+2026-07-20,Russia-Visakhapatnam,39.68,658.9,45.7,83.3
+2026-07-20,Russia-Gangavaram,39.34,658.9,29.5,83.3
+2026-07-21,Australia-Paradip,31.5,659.3,53.2,83.5
+2026-07-21,Australia-Visakhapatnam,31.0,659.3,40.9,83.5
+2026-07-21,Australia-Gangavaram,29.99,659.3,28.7,83.5
+2026-07-21,Australia-Dhamra,31.49,659.3,36.1,83.5
+2026-07-21,Australia-Gopalpur,31.61,659.3,21.5,83.5
+2026-07-21,Australia-Haldia,33.24,659.3,63.2,83.5
+2026-07-21,Indonesia-Paradip,19.84,659.3,56.4,83.5
+2026-07-21,Indonesia-Visakhapatnam,18.52,659.3,44.2,83.5
+2026-07-21,Indonesia-Haldia,20.22,659.3,66.0,83.5
+2026-07-21,Indonesia-Gangavaram,19.23,659.3,28.9,83.5
+2026-07-21,Mozambique-Visakhapatnam,27.09,659.3,47.5,83.5
+2026-07-21,Mozambique-Paradip,28.39,659.3,48.7,83.5
+2026-07-21,Mozambique-Gangavaram,27.81,659.3,32.3,83.5
+2026-07-21,United States-Paradip,46.92,659.3,55.2,83.5
+2026-07-21,United States-Gangavaram,45.93,659.3,30.4,83.5
+2026-07-21,United States-Dhamra,47.12,659.3,35.7,83.5
+2026-07-21,Russia-Paradip,41.72,659.3,56.9,83.5
+2026-07-21,Russia-Visakhapatnam,39.91,659.3,45.5,83.5
+2026-07-21,Russia-Gangavaram,39.01,659.3,28.7,83.5
+2026-07-22,Australia-Paradip,31.81,661.4,52.8,83.9
+2026-07-22,Australia-Visakhapatnam,31.5,661.4,42.2,83.9
+2026-07-22,Australia-Gangavaram,30.45,661.4,27.8,83.9
+2026-07-22,Australia-Dhamra,31.31,661.4,33.1,83.9
+2026-07-22,Australia-Gopalpur,31.71,661.4,25.5,83.9
+2026-07-22,Australia-Haldia,33.63,661.4,62.5,83.9
+2026-07-22,Indonesia-Paradip,19.73,661.4,51.1,83.9
+2026-07-22,Indonesia-Visakhapatnam,19.8,661.4,42.8,83.9
+2026-07-22,Indonesia-Haldia,20.93,661.4,64.3,83.9
+2026-07-22,Indonesia-Gangavaram,19.2,661.4,29.5,83.9
+2026-07-22,Mozambique-Visakhapatnam,27.71,661.4,44.6,83.9
+2026-07-22,Mozambique-Paradip,28.22,661.4,54.3,83.9
+2026-07-22,Mozambique-Gangavaram,27.4,661.4,22.9,83.9
+2026-07-22,United States-Paradip,47.62,661.4,56.6,83.9
+2026-07-22,United States-Gangavaram,46.95,661.4,29.7,83.9
+2026-07-22,United States-Dhamra,47.13,661.4,34.0,83.9
+2026-07-22,Russia-Paradip,40.63,661.4,52.6,83.9
+2026-07-22,Russia-Visakhapatnam,40.73,661.4,45.0,83.9
+2026-07-22,Russia-Gangavaram,39.67,661.4,27.5,83.9
+2026-07-23,Australia-Paradip,31.22,665.3,50.1,86.1
+2026-07-23,Australia-Visakhapatnam,30.95,665.3,41.9,86.1
+2026-07-23,Australia-Gangavaram,30.78,665.3,26.0,86.1
+2026-07-23,Australia-Dhamra,32.22,665.3,32.1,86.1
+2026-07-23,Australia-Gopalpur,32.56,665.3,23.7,86.1
+2026-07-23,Australia-Haldia,33.69,665.3,64.3,86.1
+2026-07-23,Indonesia-Paradip,20.41,665.3,55.1,86.1
+2026-07-23,Indonesia-Visakhapatnam,19.41,665.3,44.4,86.1
+2026-07-23,Indonesia-Haldia,21.57,665.3,59.9,86.1
+2026-07-23,Indonesia-Gangavaram,19.28,665.3,27.8,86.1
+2026-07-23,Mozambique-Visakhapatnam,28.59,665.3,41.3,86.1
+2026-07-23,Mozambique-Paradip,29.5,665.3,50.7,86.1
+2026-07-23,Mozambique-Gangavaram,28.1,665.3,25.2,86.1
+2026-07-23,United States-Paradip,47.88,665.3,52.4,86.1
+2026-07-23,United States-Gangavaram,46.78,665.3,25.9,86.1
+2026-07-23,United States-Dhamra,47.04,665.3,33.1,86.1
+2026-07-23,Russia-Paradip,40.94,665.3,54.5,86.1
+2026-07-23,Russia-Visakhapatnam,40.24,665.3,42.6,86.1
+2026-07-23,Russia-Gangavaram,40.17,665.3,21.9,86.1
+2026-07-24,Australia-Paradip,32.35,674.0,52.4,87.1
+2026-07-24,Australia-Visakhapatnam,31.97,674.0,42.5,87.1
+2026-07-24,Australia-Gangavaram,31.6,674.0,24.1,87.1
+2026-07-24,Australia-Dhamra,32.24,674.0,33.9,87.1
+2026-07-24,Australia-Gopalpur,32.76,674.0,23.3,87.1
+2026-07-24,Australia-Haldia,34.69,674.0,63.8,87.1
+2026-07-24,Indonesia-Paradip,20.52,674.0,51.8,87.1
+2026-07-24,Indonesia-Visakhapatnam,20.77,674.0,42.7,87.1
+2026-07-24,Indonesia-Haldia,20.97,674.0,60.0,87.1
+2026-07-24,Indonesia-Gangavaram,19.97,674.0,26.8,87.1
+2026-07-24,Mozambique-Visakhapatnam,28.55,674.0,42.8,87.1
+2026-07-24,Mozambique-Paradip,29.75,674.0,52.0,87.1
+2026-07-24,Mozambique-Gangavaram,27.82,674.0,23.3,87.1
+2026-07-24,United States-Paradip,47.3,674.0,52.3,87.1
+2026-07-24,United States-Gangavaram,47.82,674.0,26.1,87.1
+2026-07-24,United States-Dhamra,47.85,674.0,32.5,87.1
+2026-07-24,Russia-Paradip,41.21,674.0,49.9,87.1
+2026-07-24,Russia-Visakhapatnam,40.83,674.0,41.7,87.1
+2026-07-24,Russia-Gangavaram,40.78,674.0,29.0,87.1
+2026-07-25,Australia-Paradip,32.81,664.7,53.1,87.0
+2026-07-25,Australia-Visakhapatnam,31.25,664.7,45.3,87.0
+2026-07-25,Australia-Gangavaram,30.56,664.7,24.5,87.0
+2026-07-25,Australia-Dhamra,32.04,664.7,31.6,87.0
+2026-07-25,Australia-Gopalpur,32.63,664.7,24.1,87.0
+2026-07-25,Australia-Haldia,34.42,664.7,61.5,87.0
+2026-07-25,Indonesia-Paradip,21.49,664.7,50.4,87.0
+2026-07-25,Indonesia-Visakhapatnam,20.13,664.7,38.9,87.0
+2026-07-25,Indonesia-Haldia,21.46,664.7,66.2,87.0
+2026-07-25,Indonesia-Gangavaram,19.72,664.7,25.7,87.0
+2026-07-25,Mozambique-Visakhapatnam,28.91,664.7,41.8,87.0
+2026-07-25,Mozambique-Paradip,29.67,664.7,47.7,87.0
+2026-07-25,Mozambique-Gangavaram,27.95,664.7,23.3,87.0
+2026-07-25,United States-Paradip,48.09,664.7,51.3,87.0
+2026-07-25,United States-Gangavaram,47.24,664.7,22.9,87.0
+2026-07-25,United States-Dhamra,47.11,664.7,36.2,87.0
+2026-07-25,Russia-Paradip,41.09,664.7,52.5,87.0
+2026-07-25,Russia-Visakhapatnam,40.87,664.7,43.0,87.0
+2026-07-25,Russia-Gangavaram,40.65,664.7,24.8,87.0
+2026-07-26,Australia-Paradip,32.04,674.4,53.4,87.0
+2026-07-26,Australia-Visakhapatnam,32.05,674.4,40.1,87.0
+2026-07-26,Australia-Gangavaram,31.4,674.4,29.0,87.0
+2026-07-26,Australia-Dhamra,32.06,674.4,31.4,87.0
+2026-07-26,Australia-Gopalpur,33.1,674.4,19.5,87.0
+2026-07-26,Australia-Haldia,34.38,674.4,63.8,87.0
+2026-07-26,Indonesia-Paradip,20.97,674.4,51.1,87.0
+2026-07-26,Indonesia-Visakhapatnam,20.24,674.4,41.1,87.0
+2026-07-26,Indonesia-Haldia,21.56,674.4,66.2,87.0
+2026-07-26,Indonesia-Gangavaram,19.8,674.4,25.3,87.0
+2026-07-26,Mozambique-Visakhapatnam,28.49,674.4,43.5,87.0
+2026-07-26,Mozambique-Paradip,29.79,674.4,50.7,87.0
+2026-07-26,Mozambique-Gangavaram,28.02,674.4,28.8,87.0
+2026-07-26,United States-Paradip,48.47,674.4,48.3,87.0
+2026-07-26,United States-Gangavaram,47.58,674.4,24.6,87.0
+2026-07-26,United States-Dhamra,48.22,674.4,28.1,87.0
+2026-07-26,Russia-Paradip,41.85,674.4,49.6,87.0
+2026-07-26,Russia-Visakhapatnam,40.68,674.4,42.0,87.0
+2026-07-26,Russia-Gangavaram,40.94,674.4,25.2,87.0
+2026-07-27,Australia-Paradip,32.14,670.0,56.1,88.7
+2026-07-27,Australia-Visakhapatnam,32.11,670.0,45.4,88.7
+2026-07-27,Australia-Gangavaram,30.93,670.0,24.3,88.7
+2026-07-27,Australia-Dhamra,32.64,670.0,31.7,88.7
+2026-07-27,Australia-Gopalpur,33.67,670.0,21.9,88.7
+2026-07-27,Australia-Haldia,34.76,670.0,59.2,88.7
+2026-07-27,Indonesia-Paradip,21.21,670.0,49.6,88.7
+2026-07-27,Indonesia-Visakhapatnam,20.3,670.0,43.9,88.7
+2026-07-27,Indonesia-Haldia,21.95,670.0,56.9,88.7
+2026-07-27,Indonesia-Gangavaram,20.43,670.0,27.0,88.7
+2026-07-27,Mozambique-Visakhapatnam,28.34,670.0,44.6,88.7
+2026-07-27,Mozambique-Paradip,29.94,670.0,53.5,88.7
+2026-07-27,Mozambique-Gangavaram,28.59,670.0,22.6,88.7
+2026-07-27,United States-Paradip,48.23,670.0,51.1,88.7
+2026-07-27,United States-Gangavaram,47.27,670.0,26.8,88.7
+2026-07-27,United States-Dhamra,48.08,670.0,30.8,88.7
+2026-07-27,Russia-Paradip,41.33,670.0,50.0,88.7
+2026-07-27,Russia-Visakhapatnam,40.81,670.0,43.5,88.7
+2026-07-27,Russia-Gangavaram,41.05,670.0,27.5,88.7
+2026-07-28,Australia-Paradip,32.2,664.8,54.9,87.4
+2026-07-28,Australia-Visakhapatnam,32.07,664.8,41.6,87.4
+2026-07-28,Australia-Gangavaram,31.19,664.8,28.1,87.4
+2026-07-28,Australia-Dhamra,32.66,664.8,31.3,87.4
+2026-07-28,Australia-Gopalpur,33.28,664.8,26.0,87.4
+2026-07-28,Australia-Haldia,34.27,664.8,62.7,87.4
+2026-07-28,Indonesia-Paradip,21.1,664.8,50.8,87.4
+2026-07-28,Indonesia-Visakhapatnam,20.85,664.8,43.3,87.4
+2026-07-28,Indonesia-Haldia,21.09,664.8,63.8,87.4
+2026-07-28,Indonesia-Gangavaram,19.69,664.8,28.6,87.4
+2026-07-28,Mozambique-Visakhapatnam,28.69,664.8,41.7,87.4
+2026-07-28,Mozambique-Paradip,30.53,664.8,56.5,87.4
+2026-07-28,Mozambique-Gangavaram,28.22,664.8,27.7,87.4
+2026-07-28,United States-Paradip,48.44,664.8,53.6,87.4
+2026-07-28,United States-Gangavaram,48.01,664.8,25.8,87.4
+2026-07-28,United States-Dhamra,48.09,664.8,32.9,87.4
+2026-07-28,Russia-Paradip,41.76,664.8,53.8,87.4
+2026-07-28,Russia-Visakhapatnam,40.84,664.8,44.2,87.4
+2026-07-28,Russia-Gangavaram,40.25,664.8,25.4,87.4
+2026-07-29,Australia-Paradip,33.74,671.3,54.0,90.1
+2026-07-29,Australia-Visakhapatnam,32.64,671.3,43.1,90.1
+2026-07-29,Australia-Gangavaram,31.62,671.3,24.9,90.1
+2026-07-29,Australia-Dhamra,32.91,671.3,34.5,90.1
+2026-07-29,Australia-Gopalpur,33.34,671.3,22.5,90.1
+2026-07-29,Australia-Haldia,34.93,671.3,60.0,90.1
+2026-07-29,Indonesia-Paradip,21.6,671.3,54.8,90.1
+2026-07-29,Indonesia-Visakhapatnam,20.79,671.3,44.1,90.1
+2026-07-29,Indonesia-Haldia,21.91,671.3,63.1,90.1
+2026-07-29,Indonesia-Gangavaram,20.74,671.3,28.5,90.1
+2026-07-29,Mozambique-Visakhapatnam,28.86,671.3,44.0,90.1
+2026-07-29,Mozambique-Paradip,30.21,671.3,48.8,90.1
+2026-07-29,Mozambique-Gangavaram,28.42,671.3,26.1,90.1
+2026-07-29,United States-Paradip,48.41,671.3,54.4,90.1
+2026-07-29,United States-Gangavaram,48.02,671.3,29.2,90.1
+2026-07-29,United States-Dhamra,47.82,671.3,34.4,90.1
+2026-07-29,Russia-Paradip,42.17,671.3,55.5,90.1
+2026-07-29,Russia-Visakhapatnam,41.63,671.3,42.3,90.1
+2026-07-29,Russia-Gangavaram,41.33,671.3,23.5,90.1
+2026-07-30,Australia-Paradip,33.18,666.7,50.8,87.3
+2026-07-30,Australia-Visakhapatnam,32.64,666.7,42.6,87.3
+2026-07-30,Australia-Gangavaram,30.75,666.7,26.8,87.3
+2026-07-30,Australia-Dhamra,32.73,666.7,31.6,87.3
+2026-07-30,Australia-Gopalpur,32.81,666.7,23.5,87.3
+2026-07-30,Australia-Haldia,34.93,666.7,64.2,87.3
+2026-07-30,Indonesia-Paradip,21.61,666.7,56.1,87.3
+2026-07-30,Indonesia-Visakhapatnam,19.9,666.7,43.1,87.3
+2026-07-30,Indonesia-Haldia,21.93,666.7,63.0,87.3
+2026-07-30,Indonesia-Gangavaram,19.85,666.7,25.9,87.3
+2026-07-30,Mozambique-Visakhapatnam,28.71,666.7,44.5,87.3
+2026-07-30,Mozambique-Paradip,29.13,666.7,53.9,87.3
+2026-07-30,Mozambique-Gangavaram,28.06,666.7,27.4,87.3
+2026-07-30,United States-Paradip,48.64,666.7,55.6,87.3
+2026-07-30,United States-Gangavaram,47.06,666.7,24.1,87.3
+2026-07-30,United States-Dhamra,47.77,666.7,30.8,87.3
+2026-07-30,Russia-Paradip,41.15,666.7,53.7,87.3
+2026-07-30,Russia-Visakhapatnam,40.83,666.7,42.0,87.3
+2026-07-30,Russia-Gangavaram,40.86,666.7,28.3,87.3
+2026-07-31,Australia-Paradip,33.01,667.1,53.7,90.0
+2026-07-31,Australia-Visakhapatnam,32.96,667.1,48.1,90.0
+2026-07-31,Australia-Gangavaram,32.15,667.1,26.2,90.0
+2026-07-31,Australia-Dhamra,32.16,667.1,36.4,90.0
+2026-07-31,Australia-Gopalpur,34.04,667.1,26.4,90.0
+2026-07-31,Australia-Haldia,34.75,667.1,62.5,90.0
+2026-07-31,Indonesia-Paradip,21.53,667.1,56.8,90.0
+2026-07-31,Indonesia-Visakhapatnam,20.96,667.1,45.9,90.0
+2026-07-31,Indonesia-Haldia,21.69,667.1,65.6,90.0
+2026-07-31,Indonesia-Gangavaram,21.09,667.1,30.9,90.0
+2026-07-31,Mozambique-Visakhapatnam,29.1,667.1,44.3,90.0
+2026-07-31,Mozambique-Paradip,30.03,667.1,51.7,90.0
+2026-07-31,Mozambique-Gangavaram,28.8,667.1,29.9,90.0
+2026-07-31,United States-Paradip,48.49,667.1,57.0,90.0
+2026-07-31,United States-Gangavaram,47.41,667.1,29.9,90.0
+2026-07-31,United States-Dhamra,48.35,667.1,34.7,90.0
+2026-07-31,Russia-Paradip,41.97,667.1,55.2,90.0
+2026-07-31,Russia-Visakhapatnam,41.95,667.1,44.5,90.0
+2026-07-31,Russia-Gangavaram,40.58,667.1,27.9,90.0
+2026-08-01,Australia-Paradip,33.81,673.8,53.3,92.2
+2026-08-01,Australia-Visakhapatnam,32.94,673.8,44.8,92.2
+2026-08-01,Australia-Gangavaram,32.14,673.8,30.4,92.2
+2026-08-01,Australia-Dhamra,32.76,673.8,34.3,92.2
+2026-08-01,Australia-Gopalpur,33.51,673.8,24.0,92.2
+2026-08-01,Australia-Haldia,35.25,673.8,65.7,92.2
+2026-08-01,Indonesia-Paradip,22.43,673.8,57.2,92.2
+2026-08-01,Indonesia-Visakhapatnam,21.33,673.8,44.7,92.2
+2026-08-01,Indonesia-Haldia,22.83,673.8,66.8,92.2
+2026-08-01,Indonesia-Gangavaram,21.34,673.8,30.0,92.2
+2026-08-01,Mozambique-Visakhapatnam,29.04,673.8,46.8,92.2
+2026-08-01,Mozambique-Paradip,30.59,673.8,57.6,92.2
+2026-08-01,Mozambique-Gangavaram,29.25,673.8,28.3,92.2
+2026-08-01,United States-Paradip,48.95,673.8,57.2,92.2
+2026-08-01,United States-Gangavaram,49.18,673.8,32.0,92.2
+2026-08-01,United States-Dhamra,48.29,673.8,34.3,92.2
+2026-08-01,Russia-Paradip,42.83,673.8,56.5,92.2
+2026-08-01,Russia-Visakhapatnam,42.62,673.8,45.4,92.2
+2026-08-01,Russia-Gangavaram,41.92,673.8,27.2,92.2
+2026-08-02,Australia-Paradip,33.27,665.8,61.0,93.0
+2026-08-02,Australia-Visakhapatnam,33.22,665.8,45.9,93.0
+2026-08-02,Australia-Gangavaram,32.25,665.8,30.2,93.0
+2026-08-02,Australia-Dhamra,32.3,665.8,37.1,93.0
+2026-08-02,Australia-Gopalpur,33.6,665.8,27.0,93.0
+2026-08-02,Australia-Haldia,36.15,665.8,66.0,93.0
+2026-08-02,Indonesia-Paradip,22.2,665.8,54.5,93.0
+2026-08-02,Indonesia-Visakhapatnam,21.16,665.8,46.4,93.0
+2026-08-02,Indonesia-Haldia,22.81,665.8,68.6,93.0
+2026-08-02,Indonesia-Gangavaram,21.46,665.8,32.1,93.0
+2026-08-02,Mozambique-Visakhapatnam,29.33,665.8,46.3,93.0
+2026-08-02,Mozambique-Paradip,29.94,665.8,54.8,93.0
+2026-08-02,Mozambique-Gangavaram,29.77,665.8,36.9,93.0
+2026-08-02,United States-Paradip,48.54,665.8,54.3,93.0
+2026-08-02,United States-Gangavaram,48.49,665.8,32.0,93.0
+2026-08-02,United States-Dhamra,48.77,665.8,38.1,93.0
+2026-08-02,Russia-Paradip,42.7,665.8,56.8,93.0
+2026-08-02,Russia-Visakhapatnam,41.18,665.8,47.2,93.0
+2026-08-02,Russia-Gangavaram,41.33,665.8,30.5,93.0
+2026-08-03,Australia-Paradip,33.78,667.1,58.9,95.1
+2026-08-03,Australia-Visakhapatnam,33.4,667.1,50.0,95.1
+2026-08-03,Australia-Gangavaram,32.85,667.1,33.0,95.1
+2026-08-03,Australia-Dhamra,32.95,667.1,42.3,95.1
+2026-08-03,Australia-Gopalpur,33.84,667.1,29.1,95.1
+2026-08-03,Australia-Haldia,35.54,667.1,69.3,95.1
+2026-08-03,Indonesia-Paradip,22.09,667.1,57.4,95.1
+2026-08-03,Indonesia-Visakhapatnam,21.97,667.1,50.2,95.1
+2026-08-03,Indonesia-Haldia,23.03,667.1,65.7,95.1
+2026-08-03,Indonesia-Gangavaram,20.9,667.1,30.8,95.1
+2026-08-03,Mozambique-Visakhapatnam,29.78,667.1,47.8,95.1
+2026-08-03,Mozambique-Paradip,30.78,667.1,63.1,95.1
+2026-08-03,Mozambique-Gangavaram,29.38,667.1,29.4,95.1
+2026-08-03,United States-Paradip,50.24,667.1,60.2,95.1
+2026-08-03,United States-Gangavaram,47.85,667.1,29.0,95.1
+2026-08-03,United States-Dhamra,49.36,667.1,41.9,95.1
+2026-08-03,Russia-Paradip,43.12,667.1,56.5,95.1
+2026-08-03,Russia-Visakhapatnam,42.41,667.1,42.9,95.1
+2026-08-03,Russia-Gangavaram,42.38,667.1,32.9,95.1
+2026-08-04,Australia-Paradip,33.49,662.3,57.5,90.9
+2026-08-04,Australia-Visakhapatnam,32.53,662.3,47.6,90.9
+2026-08-04,Australia-Gangavaram,32.35,662.3,31.4,90.9
+2026-08-04,Australia-Dhamra,32.8,662.3,41.1,90.9
+2026-08-04,Australia-Gopalpur,33.11,662.3,29.5,90.9
+2026-08-04,Australia-Haldia,35.37,662.3,68.8,90.9
+2026-08-04,Indonesia-Paradip,21.25,662.3,64.6,90.9
+2026-08-04,Indonesia-Visakhapatnam,21.49,662.3,52.3,90.9
+2026-08-04,Indonesia-Haldia,23.19,662.3,70.0,90.9
+2026-08-04,Indonesia-Gangavaram,21.05,662.3,34.1,90.9
+2026-08-04,Mozambique-Visakhapatnam,29.88,662.3,49.3,90.9
+2026-08-04,Mozambique-Paradip,29.84,662.3,61.6,90.9
+2026-08-04,Mozambique-Gangavaram,29.01,662.3,30.8,90.9
+2026-08-04,United States-Paradip,48.87,662.3,57.8,90.9
+2026-08-04,United States-Gangavaram,47.91,662.3,35.9,90.9
+2026-08-04,United States-Dhamra,48.71,662.3,39.3,90.9
+2026-08-04,Russia-Paradip,41.49,662.3,61.1,90.9
+2026-08-04,Russia-Visakhapatnam,41.98,662.3,48.2,90.9
+2026-08-04,Russia-Gangavaram,41.29,662.3,35.8,90.9
+2026-08-05,Australia-Paradip,33.03,658.4,59.3,91.8
+2026-08-05,Australia-Visakhapatnam,32.73,658.4,49.3,91.8
+2026-08-05,Australia-Gangavaram,31.32,658.4,33.3,91.8
+2026-08-05,Australia-Dhamra,33.51,658.4,42.3,91.8
+2026-08-05,Australia-Gopalpur,33.35,658.4,31.8,91.8
+2026-08-05,Australia-Haldia,35.5,658.4,70.1,91.8
+2026-08-05,Indonesia-Paradip,22.07,658.4,61.7,91.8
+2026-08-05,Indonesia-Visakhapatnam,21.23,658.4,49.1,91.8
+2026-08-05,Indonesia-Haldia,23.18,658.4,71.4,91.8
+2026-08-05,Indonesia-Gangavaram,21.32,658.4,35.9,91.8
+2026-08-05,Mozambique-Visakhapatnam,30.07,658.4,50.7,91.8
+2026-08-05,Mozambique-Paradip,29.86,658.4,61.3,91.8
+2026-08-05,Mozambique-Gangavaram,29.48,658.4,37.3,91.8
+2026-08-05,United States-Paradip,48.81,658.4,59.6,91.8
+2026-08-05,United States-Gangavaram,48.39,658.4,35.1,91.8
+2026-08-05,United States-Dhamra,48.93,658.4,40.9,91.8
+2026-08-05,Russia-Paradip,42.93,658.4,63.9,91.8
+2026-08-05,Russia-Visakhapatnam,42.38,658.4,50.9,91.8
+2026-08-05,Russia-Gangavaram,41.76,658.4,32.5,91.8
+2026-08-06,Australia-Paradip,33.3,668.2,59.9,90.6
+2026-08-06,Australia-Visakhapatnam,32.55,668.2,49.4,90.6
+2026-08-06,Australia-Gangavaram,31.7,668.2,34.8,90.6
+2026-08-06,Australia-Dhamra,33.42,668.2,41.6,90.6
+2026-08-06,Australia-Gopalpur,34.47,668.2,29.7,90.6
+2026-08-06,Australia-Haldia,35.97,668.2,72.6,90.6
+2026-08-06,Indonesia-Paradip,22.2,668.2,60.2,90.6
+2026-08-06,Indonesia-Visakhapatnam,21.62,668.2,49.4,90.6
+2026-08-06,Indonesia-Haldia,22.88,668.2,71.9,90.6
+2026-08-06,Indonesia-Gangavaram,20.7,668.2,33.2,90.6
+2026-08-06,Mozambique-Visakhapatnam,29.18,668.2,52.7,90.6
+2026-08-06,Mozambique-Paradip,29.71,668.2,62.5,90.6
+2026-08-06,Mozambique-Gangavaram,28.77,668.2,37.2,90.6
+2026-08-06,United States-Paradip,49.31,668.2,62.7,90.6
+2026-08-06,United States-Gangavaram,48.49,668.2,34.2,90.6
+2026-08-06,United States-Dhamra,48.65,668.2,42.1,90.6
+2026-08-06,Russia-Paradip,41.78,668.2,59.5,90.6
+2026-08-06,Russia-Visakhapatnam,41.44,668.2,52.3,90.6
+2026-08-06,Russia-Gangavaram,41.56,668.2,35.7,90.6
+2026-08-07,Australia-Paradip,33.83,663.4,61.8,90.4
+2026-08-07,Australia-Visakhapatnam,32.96,663.4,53.1,90.4
+2026-08-07,Australia-Gangavaram,31.62,663.4,37.4,90.4
+2026-08-07,Australia-Dhamra,33.28,663.4,44.0,90.4
+2026-08-07,Australia-Gopalpur,33.74,663.4,30.4,90.4
+2026-08-07,Australia-Haldia,35.48,663.4,72.4,90.4
+2026-08-07,Indonesia-Paradip,22.41,663.4,63.1,90.4
+2026-08-07,Indonesia-Visakhapatnam,20.71,663.4,54.6,90.4
+2026-08-07,Indonesia-Haldia,23.17,663.4,73.7,90.4
+2026-08-07,Indonesia-Gangavaram,21.47,663.4,37.2,90.4
+2026-08-07,Mozambique-Visakhapatnam,29.94,663.4,56.5,90.4
+2026-08-07,Mozambique-Paradip,30.65,663.4,62.9,90.4
+2026-08-07,Mozambique-Gangavaram,29.24,663.4,36.7,90.4
+2026-08-07,United States-Paradip,49.66,663.4,61.7,90.4
+2026-08-07,United States-Gangavaram,48.85,663.4,34.8,90.4
+2026-08-07,United States-Dhamra,48.27,663.4,43.4,90.4
+2026-08-07,Russia-Paradip,41.69,663.4,63.2,90.4
+2026-08-07,Russia-Visakhapatnam,42.39,663.4,53.7,90.4
+2026-08-07,Russia-Gangavaram,41.68,663.4,35.3,90.4
+2026-08-08,Australia-Paradip,34.18,666.0,61.0,90.1
+2026-08-08,Australia-Visakhapatnam,32.89,666.0,57.1,90.1
+2026-08-08,Australia-Gangavaram,32.82,666.0,39.2,90.1
+2026-08-08,Australia-Dhamra,32.89,666.0,41.7,90.1
+2026-08-08,Australia-Gopalpur,34.56,666.0,35.6,90.1
+2026-08-08,Australia-Haldia,35.23,666.0,74.3,90.1
+2026-08-08,Indonesia-Paradip,21.67,666.0,67.1,90.1
+2026-08-08,Indonesia-Visakhapatnam,21.42,666.0,52.5,90.1
+2026-08-08,Indonesia-Haldia,23.03,666.0,76.3,90.1
+2026-08-08,Indonesia-Gangavaram,21.27,666.0,38.0,90.1
+2026-08-08,Mozambique-Visakhapatnam,29.81,666.0,53.2,90.1
+2026-08-08,Mozambique-Paradip,30.17,666.0,58.1,90.1
+2026-08-08,Mozambique-Gangavaram,28.83,666.0,37.6,90.1
+2026-08-08,United States-Paradip,49.0,666.0,63.9,90.1
+2026-08-08,United States-Gangavaram,48.92,666.0,40.7,90.1
+2026-08-08,United States-Dhamra,48.83,666.0,42.2,90.1
+2026-08-08,Russia-Paradip,42.41,666.0,63.0,90.1
+2026-08-08,Russia-Visakhapatnam,41.78,666.0,53.5,90.1
+2026-08-08,Russia-Gangavaram,41.94,666.0,34.9,90.1
+2026-08-09,Australia-Paradip,33.25,660.8,65.5,89.5
+2026-08-09,Australia-Visakhapatnam,33.13,660.8,54.2,89.5
+2026-08-09,Australia-Gangavaram,32.38,660.8,37.6,89.5
+2026-08-09,Australia-Dhamra,32.92,660.8,42.6,89.5
+2026-08-09,Australia-Gopalpur,33.5,660.8,33.3,89.5
+2026-08-09,Australia-Haldia,34.88,660.8,73.3,89.5
+2026-08-09,Indonesia-Paradip,21.69,660.8,62.7,89.5
+2026-08-09,Indonesia-Visakhapatnam,21.1,660.8,53.1,89.5
+2026-08-09,Indonesia-Haldia,22.79,660.8,73.5,89.5
+2026-08-09,Indonesia-Gangavaram,20.74,660.8,39.4,89.5
+2026-08-09,Mozambique-Visakhapatnam,29.08,660.8,51.3,89.5
+2026-08-09,Mozambique-Paradip,30.06,660.8,62.7,89.5
+2026-08-09,Mozambique-Gangavaram,28.68,660.8,36.1,89.5
+2026-08-09,United States-Paradip,49.07,660.8,62.7,89.5
+2026-08-09,United States-Gangavaram,47.98,660.8,38.9,89.5
+2026-08-09,United States-Dhamra,48.43,660.8,42.8,89.5
+2026-08-09,Russia-Paradip,42.16,660.8,63.6,89.5
+2026-08-09,Russia-Visakhapatnam,41.29,660.8,54.8,89.5
+2026-08-09,Russia-Gangavaram,41.72,660.8,36.9,89.5
+2026-08-10,Australia-Paradip,33.73,658.4,64.6,94.6
+2026-08-10,Australia-Visakhapatnam,32.72,658.4,53.8,94.6
+2026-08-10,Australia-Gangavaram,32.5,658.4,37.8,94.6
+2026-08-10,Australia-Dhamra,33.41,658.4,45.8,94.6
+2026-08-10,Australia-Gopalpur,34.18,658.4,33.7,94.6
+2026-08-10,Australia-Haldia,36.0,658.4,77.4,94.6
+2026-08-10,Indonesia-Paradip,22.76,658.4,67.6,94.6
+2026-08-10,Indonesia-Visakhapatnam,21.98,658.4,54.9,94.6
+2026-08-10,Indonesia-Haldia,22.46,658.4,74.7,94.6
+2026-08-10,Indonesia-Gangavaram,21.97,658.4,37.4,94.6
+2026-08-10,Mozambique-Visakhapatnam,29.57,658.4,53.8,94.6
+2026-08-10,Mozambique-Paradip,31.52,658.4,63.8,94.6
+2026-08-10,Mozambique-Gangavaram,29.81,658.4,40.4,94.6
+2026-08-10,United States-Paradip,49.49,658.4,65.8,94.6
+2026-08-10,United States-Gangavaram,48.46,658.4,34.5,94.6
+2026-08-10,United States-Dhamra,49.32,658.4,47.1,94.6
+2026-08-10,Russia-Paradip,43.01,658.4,63.5,94.6
+2026-08-10,Russia-Visakhapatnam,43.28,658.4,57.8,94.6
+2026-08-10,Russia-Gangavaram,42.17,658.4,42.4,94.6
+2026-08-11,Australia-Paradip,32.93,657.8,66.9,88.0
+2026-08-11,Australia-Visakhapatnam,32.26,657.8,54.4,88.0
+2026-08-11,Australia-Gangavaram,31.77,657.8,36.8,88.0
+2026-08-11,Australia-Dhamra,32.69,657.8,42.8,88.0
+2026-08-11,Australia-Gopalpur,34.03,657.8,32.9,88.0
+2026-08-11,Australia-Haldia,35.49,657.8,71.8,88.0
+2026-08-11,Indonesia-Paradip,21.5,657.8,66.4,88.0
+2026-08-11,Indonesia-Visakhapatnam,21.01,657.8,52.6,88.0
+2026-08-11,Indonesia-Haldia,22.58,657.8,76.3,88.0
+2026-08-11,Indonesia-Gangavaram,21.09,657.8,36.9,88.0
+2026-08-11,Mozambique-Visakhapatnam,29.67,657.8,51.8,88.0
+2026-08-11,Mozambique-Paradip,29.98,657.8,64.8,88.0
+2026-08-11,Mozambique-Gangavaram,28.75,657.8,36.3,88.0
+2026-08-11,United States-Paradip,49.39,657.8,65.1,88.0
+2026-08-11,United States-Gangavaram,48.28,657.8,36.7,88.0
+2026-08-11,United States-Dhamra,48.47,657.8,39.8,88.0
+2026-08-11,Russia-Paradip,42.04,657.8,63.9,88.0
+2026-08-11,Russia-Visakhapatnam,41.63,657.8,52.1,88.0
+2026-08-11,Russia-Gangavaram,41.43,657.8,38.6,88.0
+2026-08-12,Australia-Paradip,33.38,649.5,62.6,86.9
+2026-08-12,Australia-Visakhapatnam,32.3,649.5,48.3,86.9
+2026-08-12,Australia-Gangavaram,32.45,649.5,36.7,86.9
+2026-08-12,Australia-Dhamra,32.85,649.5,43.0,86.9
+2026-08-12,Australia-Gopalpur,32.64,649.5,34.1,86.9
+2026-08-12,Australia-Haldia,35.28,649.5,75.3,86.9
+2026-08-12,Indonesia-Paradip,23.07,649.5,64.8,86.9
+2026-08-12,Indonesia-Visakhapatnam,21.59,649.5,49.6,86.9
+2026-08-12,Indonesia-Haldia,22.41,649.5,73.2,86.9
+2026-08-12,Indonesia-Gangavaram,20.53,649.5,37.7,86.9
+2026-08-12,Mozambique-Visakhapatnam,29.33,649.5,52.7,86.9
+2026-08-12,Mozambique-Paradip,30.2,649.5,60.8,86.9
+2026-08-12,Mozambique-Gangavaram,28.44,649.5,37.0,86.9
+2026-08-12,United States-Paradip,49.2,649.5,62.9,86.9
+2026-08-12,United States-Gangavaram,48.04,649.5,36.7,86.9
+2026-08-12,United States-Dhamra,48.8,649.5,42.3,86.9
+2026-08-12,Russia-Paradip,42.94,649.5,65.2,86.9
+2026-08-12,Russia-Visakhapatnam,41.96,649.5,53.4,86.9
+2026-08-12,Russia-Gangavaram,41.82,649.5,38.0,86.9
+2026-08-13,Australia-Paradip,33.77,653.6,63.0,90.9
+2026-08-13,Australia-Visakhapatnam,33.2,653.6,53.6,90.9
+2026-08-13,Australia-Gangavaram,32.58,653.6,37.1,90.9
+2026-08-13,Australia-Dhamra,33.69,653.6,46.5,90.9
+2026-08-13,Australia-Gopalpur,33.92,653.6,35.1,90.9
+2026-08-13,Australia-Haldia,36.18,653.6,71.6,90.9
+2026-08-13,Indonesia-Paradip,22.69,653.6,65.1,90.9
+2026-08-13,Indonesia-Visakhapatnam,21.41,653.6,52.2,90.9
+2026-08-13,Indonesia-Haldia,22.74,653.6,70.1,90.9
+2026-08-13,Indonesia-Gangavaram,21.11,653.6,39.4,90.9
+2026-08-13,Mozambique-Visakhapatnam,29.72,653.6,54.6,90.9
+2026-08-13,Mozambique-Paradip,30.04,653.6,64.0,90.9
+2026-08-13,Mozambique-Gangavaram,28.3,653.6,37.5,90.9
+2026-08-13,United States-Paradip,48.65,653.6,63.0,90.9
+2026-08-13,United States-Gangavaram,48.81,653.6,39.8,90.9
+2026-08-13,United States-Dhamra,49.71,653.6,44.3,90.9
+2026-08-13,Russia-Paradip,43.5,653.6,61.5,90.9
+2026-08-13,Russia-Visakhapatnam,42.2,653.6,55.2,90.9
+2026-08-13,Russia-Gangavaram,41.46,653.6,39.6,90.9
+2026-08-14,Australia-Paradip,33.15,653.1,61.7,88.5
+2026-08-14,Australia-Visakhapatnam,32.76,653.1,55.2,88.5
+2026-08-14,Australia-Gangavaram,32.04,653.1,37.4,88.5
+2026-08-14,Australia-Dhamra,33.18,653.1,39.1,88.5
+2026-08-14,Australia-Gopalpur,33.84,653.1,28.9,88.5
+2026-08-14,Australia-Haldia,36.36,653.1,70.0,88.5
+2026-08-14,Indonesia-Paradip,21.91,653.1,64.6,88.5
+2026-08-14,Indonesia-Visakhapatnam,20.93,653.1,55.3,88.5
+2026-08-14,Indonesia-Haldia,22.75,653.1,73.8,88.5
+2026-08-14,Indonesia-Gangavaram,21.58,653.1,37.3,88.5
+2026-08-14,Mozambique-Visakhapatnam,29.68,653.1,54.2,88.5
+2026-08-14,Mozambique-Paradip,29.88,653.1,59.4,88.5
+2026-08-14,Mozambique-Gangavaram,29.31,653.1,36.5,88.5
+2026-08-14,United States-Paradip,50.03,653.1,60.5,88.5
+2026-08-14,United States-Gangavaram,48.51,653.1,39.8,88.5
+2026-08-14,United States-Dhamra,48.78,653.1,42.9,88.5
+2026-08-14,Russia-Paradip,42.6,653.1,60.8,88.5
+2026-08-14,Russia-Visakhapatnam,41.57,653.1,53.2,88.5
+2026-08-14,Russia-Gangavaram,41.61,653.1,37.4,88.5
+2026-08-15,Australia-Paradip,34.25,649.9,61.1,87.8
+2026-08-15,Australia-Visakhapatnam,32.26,649.9,53.0,87.8
+2026-08-15,Australia-Gangavaram,31.57,649.9,36.9,87.8
+2026-08-15,Australia-Dhamra,32.8,649.9,44.1,87.8
+2026-08-15,Australia-Gopalpur,34.32,649.9,31.7,87.8
+2026-08-15,Australia-Haldia,34.93,649.9,69.3,87.8
+2026-08-15,Indonesia-Paradip,22.21,649.9,60.7,87.8
+2026-08-15,Indonesia-Visakhapatnam,20.06,649.9,48.9,87.8
+2026-08-15,Indonesia-Haldia,22.81,649.9,71.0,87.8
+2026-08-15,Indonesia-Gangavaram,20.81,649.9,38.3,87.8
+2026-08-15,Mozambique-Visakhapatnam,29.95,649.9,51.1,87.8
+2026-08-15,Mozambique-Paradip,30.04,649.9,58.2,87.8
+2026-08-15,Mozambique-Gangavaram,29.37,649.9,36.3,87.8
+2026-08-15,United States-Paradip,49.01,649.9,60.9,87.8
+2026-08-15,United States-Gangavaram,47.93,649.9,30.9,87.8
+2026-08-15,United States-Dhamra,48.4,649.9,42.8,87.8
+2026-08-15,Russia-Paradip,42.67,649.9,62.0,87.8
+2026-08-15,Russia-Visakhapatnam,42.06,649.9,51.2,87.8
+2026-08-15,Russia-Gangavaram,41.51,649.9,34.0,87.8
+2026-08-16,Australia-Paradip,33.9,657.8,59.7,88.9
+2026-08-16,Australia-Visakhapatnam,32.29,657.8,52.3,88.9
+2026-08-16,Australia-Gangavaram,32.38,657.8,37.2,88.9
+2026-08-16,Australia-Dhamra,33.79,657.8,41.8,88.9
+2026-08-16,Australia-Gopalpur,33.83,657.8,28.2,88.9
+2026-08-16,Australia-Haldia,35.5,657.8,70.3,88.9
+2026-08-16,Indonesia-Paradip,21.77,657.8,64.4,88.9
+2026-08-16,Indonesia-Visakhapatnam,21.59,657.8,49.8,88.9
+2026-08-16,Indonesia-Haldia,22.75,657.8,68.5,88.9
+2026-08-16,Indonesia-Gangavaram,21.18,657.8,35.6,88.9
+2026-08-16,Mozambique-Visakhapatnam,29.6,657.8,50.7,88.9
+2026-08-16,Mozambique-Paradip,30.64,657.8,57.9,88.9
+2026-08-16,Mozambique-Gangavaram,29.52,657.8,38.4,88.9
+2026-08-16,United States-Paradip,49.59,657.8,61.4,88.9
+2026-08-16,United States-Gangavaram,49.19,657.8,32.4,88.9
+2026-08-16,United States-Dhamra,49.76,657.8,41.3,88.9
+2026-08-16,Russia-Paradip,43.54,657.8,59.5,88.9
+2026-08-16,Russia-Visakhapatnam,42.53,657.8,52.5,88.9
+2026-08-16,Russia-Gangavaram,41.81,657.8,35.4,88.9
+2026-08-17,Australia-Paradip,33.41,660.2,55.9,88.5
+2026-08-17,Australia-Visakhapatnam,33.28,660.2,49.4,88.5
+2026-08-17,Australia-Gangavaram,33.04,660.2,33.7,88.5
+2026-08-17,Australia-Dhamra,33.41,660.2,35.9,88.5
+2026-08-17,Australia-Gopalpur,34.46,660.2,26.2,88.5
+2026-08-17,Australia-Haldia,36.02,660.2,69.6,88.5
+2026-08-17,Indonesia-Paradip,22.67,660.2,58.1,88.5
+2026-08-17,Indonesia-Visakhapatnam,21.79,660.2,51.9,88.5
+2026-08-17,Indonesia-Haldia,23.19,660.2,69.6,88.5
+2026-08-17,Indonesia-Gangavaram,21.7,660.2,32.4,88.5
+2026-08-17,Mozambique-Visakhapatnam,30.28,660.2,53.1,88.5
+2026-08-17,Mozambique-Paradip,30.7,660.2,58.4,88.5
+2026-08-17,Mozambique-Gangavaram,29.79,660.2,31.2,88.5
+2026-08-17,United States-Paradip,48.61,660.2,60.7,88.5
+2026-08-17,United States-Gangavaram,48.44,660.2,31.5,88.5
+2026-08-17,United States-Dhamra,48.67,660.2,39.2,88.5
+2026-08-17,Russia-Paradip,42.96,660.2,60.6,88.5
+2026-08-17,Russia-Visakhapatnam,42.05,660.2,49.4,88.5
+2026-08-17,Russia-Gangavaram,42.62,660.2,35.9,88.5
+2026-08-18,Australia-Paradip,33.53,656.1,59.6,87.0
+2026-08-18,Australia-Visakhapatnam,33.27,656.1,48.4,87.0
+2026-08-18,Australia-Gangavaram,32.9,656.1,28.8,87.0
+2026-08-18,Australia-Dhamra,33.01,656.1,38.8,87.0
+2026-08-18,Australia-Gopalpur,33.96,656.1,28.5,87.0
+2026-08-18,Australia-Haldia,36.27,656.1,65.2,87.0
+2026-08-18,Indonesia-Paradip,22.15,656.1,58.7,87.0
+2026-08-18,Indonesia-Visakhapatnam,20.96,656.1,50.5,87.0
+2026-08-18,Indonesia-Haldia,22.67,656.1,69.6,87.0
+2026-08-18,Indonesia-Gangavaram,20.32,656.1,34.3,87.0
+2026-08-18,Mozambique-Visakhapatnam,29.43,656.1,48.4,87.0
+2026-08-18,Mozambique-Paradip,30.56,656.1,59.5,87.0
+2026-08-18,Mozambique-Gangavaram,29.09,656.1,31.2,87.0
+2026-08-18,United States-Paradip,48.81,656.1,58.4,87.0
+2026-08-18,United States-Gangavaram,48.22,656.1,34.3,87.0
+2026-08-18,United States-Dhamra,48.82,656.1,32.8,87.0
+2026-08-18,Russia-Paradip,42.02,656.1,56.6,87.0
+2026-08-18,Russia-Visakhapatnam,42.22,656.1,46.2,87.0
+2026-08-18,Russia-Gangavaram,41.9,656.1,35.3,87.0
+2026-08-19,Australia-Paradip,33.61,657.0,56.5,88.2
+2026-08-19,Australia-Visakhapatnam,32.49,657.0,45.1,88.2
+2026-08-19,Australia-Gangavaram,32.65,657.0,30.7,88.2
+2026-08-19,Australia-Dhamra,33.22,657.0,37.3,88.2
+2026-08-19,Australia-Gopalpur,34.43,657.0,25.6,88.2
+2026-08-19,Australia-Haldia,36.2,657.0,64.8,88.2
+2026-08-19,Indonesia-Paradip,21.89,657.0,55.4,88.2
+2026-08-19,Indonesia-Visakhapatnam,21.39,657.0,44.5,88.2
+2026-08-19,Indonesia-Haldia,23.2,657.0,69.4,88.2
+2026-08-19,Indonesia-Gangavaram,21.6,657.0,33.4,88.2
+2026-08-19,Mozambique-Visakhapatnam,29.76,657.0,45.2,88.2
+2026-08-19,Mozambique-Paradip,31.12,657.0,55.9,88.2
+2026-08-19,Mozambique-Gangavaram,29.95,657.0,29.1,88.2
+2026-08-19,United States-Paradip,50.12,657.0,59.2,88.2
+2026-08-19,United States-Gangavaram,48.87,657.0,30.6,88.2
+2026-08-19,United States-Dhamra,48.94,657.0,42.0,88.2
+2026-08-19,Russia-Paradip,42.14,657.0,54.4,88.2
+2026-08-19,Russia-Visakhapatnam,41.64,657.0,48.9,88.2
+2026-08-19,Russia-Gangavaram,42.16,657.0,30.7,88.2
+2026-08-20,Australia-Paradip,34.47,660.9,56.7,87.8
+2026-08-20,Australia-Visakhapatnam,32.99,660.9,44.4,87.8
+2026-08-20,Australia-Gangavaram,32.99,660.9,28.7,87.8
+2026-08-20,Australia-Dhamra,33.64,660.9,38.1,87.8
+2026-08-20,Australia-Gopalpur,33.78,660.9,28.6,87.8
+2026-08-20,Australia-Haldia,36.57,660.9,69.6,87.8
+2026-08-20,Indonesia-Paradip,22.97,660.9,57.7,87.8
+2026-08-20,Indonesia-Visakhapatnam,21.45,660.9,43.0,87.8
+2026-08-20,Indonesia-Haldia,23.34,660.9,64.8,87.8
+2026-08-20,Indonesia-Gangavaram,21.76,660.9,28.2,87.8
+2026-08-20,Mozambique-Visakhapatnam,30.23,660.9,49.0,87.8
+2026-08-20,Mozambique-Paradip,30.26,660.9,56.8,87.8
+2026-08-20,Mozambique-Gangavaram,30.16,660.9,28.6,87.8
+2026-08-20,United States-Paradip,49.44,660.9,57.8,87.8
+2026-08-20,United States-Gangavaram,47.85,660.9,29.4,87.8
+2026-08-20,United States-Dhamra,50.02,660.9,34.1,87.8
+2026-08-20,Russia-Paradip,43.03,660.9,53.7,87.8
+2026-08-20,Russia-Visakhapatnam,41.95,660.9,48.3,87.8
+2026-08-20,Russia-Gangavaram,42.43,660.9,30.6,87.8
+2026-08-21,Australia-Paradip,34.85,662.3,51.8,91.0
+2026-08-21,Australia-Visakhapatnam,34.04,662.3,44.8,91.0
+2026-08-21,Australia-Gangavaram,32.84,662.3,30.0,91.0
+2026-08-21,Australia-Dhamra,33.19,662.3,35.6,91.0
+2026-08-21,Australia-Gopalpur,34.85,662.3,26.4,91.0
+2026-08-21,Australia-Haldia,36.85,662.3,66.4,91.0
+2026-08-21,Indonesia-Paradip,22.79,662.3,55.9,91.0
+2026-08-21,Indonesia-Visakhapatnam,21.84,662.3,43.4,91.0
+2026-08-21,Indonesia-Haldia,24.1,662.3,67.5,91.0
+2026-08-21,Indonesia-Gangavaram,21.95,662.3,28.7,91.0
+2026-08-21,Mozambique-Visakhapatnam,30.9,662.3,43.4,91.0
+2026-08-21,Mozambique-Paradip,31.91,662.3,56.5,91.0
+2026-08-21,Mozambique-Gangavaram,29.98,662.3,27.4,91.0
+2026-08-21,United States-Paradip,50.19,662.3,55.6,91.0
+2026-08-21,United States-Gangavaram,48.78,662.3,28.7,91.0
+2026-08-21,United States-Dhamra,50.02,662.3,36.9,91.0
+2026-08-21,Russia-Paradip,43.97,662.3,53.3,91.0
+2026-08-21,Russia-Visakhapatnam,42.98,662.3,47.5,91.0
+2026-08-21,Russia-Gangavaram,42.75,662.3,29.3,91.0
+2026-08-22,Australia-Paradip,34.28,661.7,49.9,86.4
+2026-08-22,Australia-Visakhapatnam,33.83,661.7,41.0,86.4
+2026-08-22,Australia-Gangavaram,32.54,661.7,27.5,86.4
+2026-08-22,Australia-Dhamra,33.31,661.7,32.9,86.4
+2026-08-22,Australia-Gopalpur,33.23,661.7,27.0,86.4
+2026-08-22,Australia-Haldia,36.06,661.7,66.7,86.4
+2026-08-22,Indonesia-Paradip,21.79,661.7,51.8,86.4
+2026-08-22,Indonesia-Visakhapatnam,21.25,661.7,47.5,86.4
+2026-08-22,Indonesia-Haldia,23.48,661.7,61.9,86.4
+2026-08-22,Indonesia-Gangavaram,21.05,661.7,28.8,86.4
+2026-08-22,Mozambique-Visakhapatnam,29.51,661.7,44.6,86.4
+2026-08-22,Mozambique-Paradip,31.05,661.7,56.4,86.4
+2026-08-22,Mozambique-Gangavaram,29.77,661.7,29.2,86.4
+2026-08-22,United States-Paradip,49.42,661.7,57.7,86.4
+2026-08-22,United States-Gangavaram,48.8,661.7,25.8,86.4
+2026-08-22,United States-Dhamra,48.82,661.7,38.3,86.4
+2026-08-22,Russia-Paradip,43.09,661.7,53.4,86.4
+2026-08-22,Russia-Visakhapatnam,42.03,661.7,44.1,86.4
+2026-08-22,Russia-Gangavaram,42.95,661.7,30.4,86.4
+2026-08-23,Australia-Paradip,33.96,667.2,50.2,84.7
+2026-08-23,Australia-Visakhapatnam,33.35,667.2,45.5,84.7
+2026-08-23,Australia-Gangavaram,32.32,667.2,27.3,84.7
+2026-08-23,Australia-Dhamra,33.69,667.2,31.1,84.7
+2026-08-23,Australia-Gopalpur,33.54,667.2,25.2,84.7
+2026-08-23,Australia-Haldia,36.09,667.2,66.5,84.7
+2026-08-23,Indonesia-Paradip,21.62,667.2,56.1,84.7
+2026-08-23,Indonesia-Visakhapatnam,21.5,667.2,40.6,84.7
+2026-08-23,Indonesia-Haldia,23.68,667.2,64.3,84.7
+2026-08-23,Indonesia-Gangavaram,21.26,667.2,28.7,84.7
+2026-08-23,Mozambique-Visakhapatnam,30.35,667.2,41.3,84.7
+2026-08-23,Mozambique-Paradip,31.21,667.2,51.4,84.7
+2026-08-23,Mozambique-Gangavaram,30.19,667.2,26.8,84.7
+2026-08-23,United States-Paradip,49.3,667.2,54.7,84.7
+2026-08-23,United States-Gangavaram,48.42,667.2,26.3,84.7
+2026-08-23,United States-Dhamra,49.19,667.2,34.2,84.7
+2026-08-23,Russia-Paradip,42.79,667.2,52.1,84.7
+2026-08-23,Russia-Visakhapatnam,41.51,667.2,43.5,84.7
+2026-08-23,Russia-Gangavaram,41.57,667.2,28.2,84.7
+2026-08-24,Australia-Paradip,33.17,665.7,49.1,83.2
+2026-08-24,Australia-Visakhapatnam,33.8,665.7,41.3,83.2
+2026-08-24,Australia-Gangavaram,32.48,665.7,25.6,83.2
+2026-08-24,Australia-Dhamra,33.27,665.7,33.5,83.2
+2026-08-24,Australia-Gopalpur,33.54,665.7,22.5,83.2
+2026-08-24,Australia-Haldia,36.44,665.7,65.6,83.2
+2026-08-24,Indonesia-Paradip,21.6,665.7,49.3,83.2
+2026-08-24,Indonesia-Visakhapatnam,21.03,665.7,42.1,83.2
+2026-08-24,Indonesia-Haldia,22.52,665.7,63.7,83.2
+2026-08-24,Indonesia-Gangavaram,21.69,665.7,31.0,83.2
+2026-08-24,Mozambique-Visakhapatnam,30.12,665.7,43.1,83.2
+2026-08-24,Mozambique-Paradip,30.19,665.7,54.9,83.2
+2026-08-24,Mozambique-Gangavaram,29.45,665.7,25.0,83.2
+2026-08-24,United States-Paradip,49.27,665.7,54.4,83.2
+2026-08-24,United States-Gangavaram,48.09,665.7,23.5,83.2
+2026-08-24,United States-Dhamra,48.98,665.7,32.5,83.2
+2026-08-24,Russia-Paradip,42.16,665.7,56.6,83.2
+2026-08-24,Russia-Visakhapatnam,42.81,665.7,43.7,83.2
+2026-08-24,Russia-Gangavaram,41.65,665.7,31.2,83.2
+2026-08-25,Australia-Paradip,34.22,673.3,52.6,86.2
+2026-08-25,Australia-Visakhapatnam,32.55,673.3,43.1,86.2
+2026-08-25,Australia-Gangavaram,33.01,673.3,27.6,86.2
+2026-08-25,Australia-Dhamra,34.58,673.3,31.8,86.2
+2026-08-25,Australia-Gopalpur,34.4,673.3,20.9,86.2
+2026-08-25,Australia-Haldia,35.93,673.3,66.2,86.2
+2026-08-25,Indonesia-Paradip,22.5,673.3,51.1,86.2
+2026-08-25,Indonesia-Visakhapatnam,22.04,673.3,43.9,86.2
+2026-08-25,Indonesia-Haldia,23.15,673.3,59.6,86.2
+2026-08-25,Indonesia-Gangavaram,21.73,673.3,25.0,86.2
+2026-08-25,Mozambique-Visakhapatnam,30.43,673.3,43.1,86.2
+2026-08-25,Mozambique-Paradip,31.38,673.3,48.7,86.2
+2026-08-25,Mozambique-Gangavaram,30.51,673.3,26.7,86.2
+2026-08-25,United States-Paradip,50.2,673.3,53.1,86.2
+2026-08-25,United States-Gangavaram,49.5,673.3,27.2,86.2
+2026-08-25,United States-Dhamra,49.52,673.3,33.3,86.2
+2026-08-25,Russia-Paradip,43.61,673.3,56.8,86.2
+2026-08-25,Russia-Visakhapatnam,42.25,673.3,43.4,86.2
+2026-08-25,Russia-Gangavaram,42.48,673.3,23.7,86.2
+2026-08-26,Australia-Paradip,34.74,675.1,52.3,84.2
+2026-08-26,Australia-Visakhapatnam,32.94,675.1,43.4,84.2
+2026-08-26,Australia-Gangavaram,32.48,675.1,25.8,84.2
+2026-08-26,Australia-Dhamra,33.44,675.1,31.2,84.2
+2026-08-26,Australia-Gopalpur,33.9,675.1,21.1,84.2
+2026-08-26,Australia-Haldia,35.88,675.1,61.8,84.2
+2026-08-26,Indonesia-Paradip,23.22,675.1,46.2,84.2
+2026-08-26,Indonesia-Visakhapatnam,21.65,675.1,44.2,84.2
+2026-08-26,Indonesia-Haldia,22.73,675.1,62.1,84.2
+2026-08-26,Indonesia-Gangavaram,22.36,675.1,29.4,84.2
+2026-08-26,Mozambique-Visakhapatnam,30.51,675.1,42.3,84.2
+2026-08-26,Mozambique-Paradip,30.27,675.1,52.4,84.2
+2026-08-26,Mozambique-Gangavaram,29.85,675.1,25.2,84.2
+2026-08-26,United States-Paradip,49.51,675.1,51.1,84.2
+2026-08-26,United States-Gangavaram,48.77,675.1,25.8,84.2
+2026-08-26,United States-Dhamra,48.98,675.1,32.1,84.2
+2026-08-26,Russia-Paradip,42.59,675.1,50.6,84.2
+2026-08-26,Russia-Visakhapatnam,41.76,675.1,44.0,84.2
+2026-08-26,Russia-Gangavaram,42.76,675.1,28.3,84.2
+2026-08-27,Australia-Paradip,33.77,676.6,51.3,81.0
+2026-08-27,Australia-Visakhapatnam,32.89,676.6,40.0,81.0
+2026-08-27,Australia-Gangavaram,32.77,676.6,29.1,81.0
+2026-08-27,Australia-Dhamra,32.66,676.6,30.2,81.0
+2026-08-27,Australia-Gopalpur,34.01,676.6,21.4,81.0
+2026-08-27,Australia-Haldia,35.59,676.6,63.0,81.0
+2026-08-27,Indonesia-Paradip,22.87,676.6,53.1,81.0
+2026-08-27,Indonesia-Visakhapatnam,21.48,676.6,43.7,81.0
+2026-08-27,Indonesia-Haldia,22.76,676.6,61.7,81.0
+2026-08-27,Indonesia-Gangavaram,21.05,676.6,28.4,81.0
+2026-08-27,Mozambique-Visakhapatnam,29.82,676.6,42.1,81.0
+2026-08-27,Mozambique-Paradip,29.95,676.6,51.0,81.0
+2026-08-27,Mozambique-Gangavaram,29.48,676.6,26.7,81.0
+2026-08-27,United States-Paradip,49.09,676.6,53.0,81.0
+2026-08-27,United States-Gangavaram,48.15,676.6,28.5,81.0
+2026-08-27,United States-Dhamra,48.4,676.6,35.5,81.0
+2026-08-27,Russia-Paradip,42.99,676.6,52.9,81.0
+2026-08-27,Russia-Visakhapatnam,42.47,676.6,40.5,81.0
+2026-08-27,Russia-Gangavaram,41.01,676.6,28.6,81.0
+2026-08-28,Australia-Paradip,34.59,682.0,50.4,81.0
+2026-08-28,Australia-Visakhapatnam,32.77,682.0,41.1,81.0
+2026-08-28,Australia-Gangavaram,33.47,682.0,25.9,81.0
+2026-08-28,Australia-Dhamra,33.02,682.0,28.6,81.0
+2026-08-28,Australia-Gopalpur,34.98,682.0,25.3,81.0
+2026-08-28,Australia-Haldia,35.44,682.0,62.1,81.0
+2026-08-28,Indonesia-Paradip,22.88,682.0,56.5,81.0
+2026-08-28,Indonesia-Visakhapatnam,21.31,682.0,43.7,81.0
+2026-08-28,Indonesia-Haldia,22.97,682.0,62.2,81.0
+2026-08-28,Indonesia-Gangavaram,22.02,682.0,27.0,81.0
+2026-08-28,Mozambique-Visakhapatnam,29.51,682.0,44.1,81.0
+2026-08-28,Mozambique-Paradip,30.76,682.0,55.1,81.0
+2026-08-28,Mozambique-Gangavaram,30.23,682.0,27.7,81.0
+2026-08-28,United States-Paradip,49.42,682.0,50.1,81.0
+2026-08-28,United States-Gangavaram,48.01,682.0,25.2,81.0
+2026-08-28,United States-Dhamra,50.24,682.0,33.0,81.0
+2026-08-28,Russia-Paradip,42.93,682.0,48.6,81.0
+2026-08-28,Russia-Visakhapatnam,42.49,682.0,43.6,81.0
+2026-08-28,Russia-Gangavaram,41.52,682.0,26.1,81.0
+2026-08-29,Australia-Paradip,34.81,684.1,48.4,83.5
+2026-08-29,Australia-Visakhapatnam,33.65,684.1,44.7,83.5
+2026-08-29,Australia-Gangavaram,33.46,684.1,27.3,83.5
+2026-08-29,Australia-Dhamra,34.19,684.1,33.2,83.5
+2026-08-29,Australia-Gopalpur,35.15,684.1,22.2,83.5
+2026-08-29,Australia-Haldia,36.41,684.1,63.4,83.5
+2026-08-29,Indonesia-Paradip,22.74,684.1,50.3,83.5
+2026-08-29,Indonesia-Visakhapatnam,21.77,684.1,41.1,83.5
+2026-08-29,Indonesia-Haldia,23.0,684.1,61.2,83.5
+2026-08-29,Indonesia-Gangavaram,22.36,684.1,31.0,83.5
+2026-08-29,Mozambique-Visakhapatnam,29.84,684.1,46.6,83.5
+2026-08-29,Mozambique-Paradip,30.51,684.1,52.9,83.5
+2026-08-29,Mozambique-Gangavaram,29.66,684.1,25.4,83.5
+2026-08-29,United States-Paradip,49.67,684.1,55.3,83.5
+2026-08-29,United States-Gangavaram,49.27,684.1,28.9,83.5
+2026-08-29,United States-Dhamra,49.04,684.1,37.4,83.5
+2026-08-29,Russia-Paradip,43.79,684.1,55.3,83.5
+2026-08-29,Russia-Visakhapatnam,43.23,684.1,40.9,83.5
+2026-08-29,Russia-Gangavaram,42.34,684.1,27.5,83.5

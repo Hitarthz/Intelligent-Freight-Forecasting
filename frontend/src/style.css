@@ -1,0 +1,304 @@
+:root {
+  --bg: #0f172a;
+  --card: #1e293b;
+  --border: #334155;
+  --text: #f8fafc;
+  --text-muted: #94a3b8;
+  --primary: #38bdf8;
+  --green: #10b981;
+  --amber: #f59e0b;
+  --red: #ef4444;
+  --font: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font);
+  background-color: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+  padding: 24px;
+}
+
+.simple-app {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Header */
+.simple-header {
+  margin-bottom: 24px;
+}
+
+.gov-tag {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--primary);
+  background: rgba(56, 189, 248, 0.12);
+  border: 1px solid rgba(56, 189, 248, 0.25);
+  padding: 4px 10px;
+  border-radius: 6px;
+  margin-bottom: 8px;
+  letter-spacing: 0.5px;
+}
+
+.simple-header h1 {
+  font-size: 24px;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.simple-header p {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+/* Main Layout */
+.main-layout {
+  display: grid;
+  grid-template-columns: 380px 1fr;
+  gap: 20px;
+  align-items: start;
+}
+
+.panel {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 22px;
+}
+
+.input-panel h2 {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  color: #ffffff;
+}
+
+/* Form */
+.field {
+  margin-bottom: 14px;
+}
+
+.field label {
+  display: block;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.field input,
+.field select {
+  width: 100%;
+  background: #0f172a;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: #ffffff;
+  padding: 10px 12px;
+  font-size: 13px;
+  font-family: inherit;
+}
+
+.field input:focus,
+.field select:focus {
+  outline: none;
+  border-color: var(--primary);
+}
+
+.size-chips {
+  display: flex;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+.size-chips span {
+  background: #0f172a;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 11px;
+  padding: 3px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.size-chips span:hover {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.btn-run {
+  width: 100%;
+  background: var(--primary);
+  color: #0f172a;
+  border: none;
+  padding: 13px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 800;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: all 0.2s;
+}
+
+.btn-run:hover:not(:disabled) {
+  background: #7dd3fc;
+}
+
+/* Output Panel */
+.output-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* Recommendation Box (Big, Obvious) */
+.recommendation-box {
+  border-radius: 12px;
+  padding: 22px;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.box-green {
+  background: rgba(16, 185, 129, 0.12);
+  border-color: var(--green);
+}
+
+.box-amber {
+  background: rgba(245, 158, 11, 0.12);
+  border-color: var(--amber);
+}
+
+.box-blue {
+  background: rgba(56, 189, 248, 0.12);
+  border-color: var(--primary);
+}
+
+.rec-label {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+  margin-bottom: 4px;
+}
+
+.rec-action {
+  font-size: 28px;
+  font-weight: 800;
+  margin-bottom: 6px;
+}
+
+.rec-text {
+  font-size: 14px;
+  color: #e2e8f0;
+  line-height: 1.5;
+}
+
+/* Three Cards Row */
+.cards-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+}
+
+.info-box {
+  background: #142036;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.box-title {
+  font-size: 11.5px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 12px;
+}
+
+.rates-comparison {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.rates-comparison .sub {
+  display: block;
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+.rates-comparison .val {
+  font-size: 18px;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.rate-arrow {
+  font-size: 16px;
+  color: var(--primary);
+}
+
+.rate-trend {
+  font-size: 12px;
+  color: var(--primary);
+}
+
+.fit-detail {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  margin-bottom: 6px;
+}
+
+.fit-detail span {
+  color: var(--text-muted);
+}
+
+.fit-detail b {
+  color: #ffffff;
+}
+
+.status-pass {
+  color: var(--green) !important;
+}
+
+.status-fail {
+  color: var(--red) !important;
+}
+
+.savings-tag {
+  background: rgba(16, 185, 129, 0.15);
+  color: var(--green);
+  font-size: 11.5px;
+  padding: 6px 8px;
+  border-radius: 6px;
+  margin-top: 8px;
+}
+
+.loading-state {
+  text-align: center;
+  padding: 40px;
+  color: var(--text-muted);
+}
+
+@media (max-width: 900px) {
+  .main-layout {
+    grid-template-columns: 1fr;
+  }
+  .cards-row {
+    grid-template-columns: 1fr;
+  }
+}

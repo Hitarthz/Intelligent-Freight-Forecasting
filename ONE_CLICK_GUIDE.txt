@@ -1,0 +1,14 @@
+ONE-CLICK RUNNING
+
+1. Double-click RUN.bat
+2. Wait for the browser to open.
+3. Use the dashboard.
+4. Keep the ONE black terminal window open.
+5. Close that terminal when the demo is finished.
+
+The project structure is unchanged:
+backend/ and frontend/ remain separate.
+RUN.bat simply starts both in the same terminal window.
+
+First run can take a few minutes because packages may be installed.
+Later runs are much faster.
