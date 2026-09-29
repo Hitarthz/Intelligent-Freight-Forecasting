@@ -159,7 +159,7 @@ export default function App() {
       {/* SIDEBAR NAVIGATION (Matching dashboard.html) */}
       <aside className="sidebar">
         <div className="logo">
-          FREIGHT <span>AI</span>
+          INTELLIGENT FREIGHT FORECASTING
         </div>
 
         <div className="nav-title">COMMAND</div>
@@ -220,19 +220,6 @@ export default function App() {
       <main className="main" id="home">
         {/* TOPBAR */}
         <div className="topbar">
-          <div className="page-title">
-            <h1>INTELLIGENT FREIGHT FORECASTING</h1>
-            <p>
-              AI-powered freight forecasting & vessel chartering decision support 
-            </p>
-          </div>
-
-          <div className="topbar-right">
-            <div className="status">
-              <span className="dot" />
-              AI SYSTEM ONLINE
-            </div>
-          </div>
         </div>
 
         {error && <div className="error-banner">⚠️ {error}</div>}
