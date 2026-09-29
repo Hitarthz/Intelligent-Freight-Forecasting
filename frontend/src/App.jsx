@@ -233,12 +233,11 @@ export default function App() {
           <div className="page-title">
             <h1>INTELLIGENT FREIGHT FORECASTING</h1>
             <p>
-              AI-powered freight forecasting & vessel chartering decision support • Ministry of Steel (SIH26006)
+              AI-powered freight forecasting & vessel chartering decision support 
             </p>
           </div>
 
           <div className="topbar-right">
-            <span className="gov-pill">MINISTRY OF STEEL • TEAM AETURNUS</span>
             <div className="status">
               <span className="dot" />
               AI SYSTEM ONLINE
