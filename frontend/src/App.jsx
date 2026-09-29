@@ -478,7 +478,7 @@ export default function App() {
         />
 
         {/* SMART PROCUREMENT / AUDIT HISTORY (Matching dashboard.html) */}
-        <AnalysisHistory history={history} />
+        <AnalysisHistory history={history} onClearHistory={() => setHistory([])} />
 
         {/* DECISION REPORT MODAL (Matching dashboard.html booking modal) */}
         <DecisionReportModal

@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function AnalysisHistory({ history = [] }) {
+export default function AnalysisHistory({ history = [], onClearHistory }) {
   const exportToCSV = () => {
     if (!history || history.length === 0) {
       alert('No analysis records available to export.');
@@ -29,39 +29,7 @@ export default function AnalysisHistory({ history = [] }) {
     document.body.removeChild(link);
   };
 
-  // Baseline demo rows if session just started
-  const displayRows =
-    history.length > 0
-      ? history
-      : [
-          {
-            cargo: 'Iron Ore',
-            route: 'Australia → Paradip',
-            quantity: 50000,
-            current_rate: 34.81,
-            vessel_assigned: 'MV Aeturnus 2 (Supramax)',
-            decision: 'BOOK NOW',
-            risk_level: 'LOW (35%)',
-          },
-          {
-            cargo: 'Coking Coal',
-            route: 'Mozambique → Visakhapatnam',
-            quantity: 75000,
-            current_rate: 29.84,
-            vessel_assigned: 'MV Aeturnus 3 (Panamax)',
-            decision: 'PARTIAL BOOK',
-            risk_level: 'MEDIUM (52%)',
-          },
-          {
-            cargo: 'Thermal Coal',
-            route: 'Indonesia → Haldia',
-            quantity: 35000,
-            current_rate: 18.2,
-            vessel_assigned: 'MV Aeturnus 1 (Handysize)',
-            decision: 'WAIT',
-            risk_level: 'HIGH (78%)',
-          },
-        ];
+  const displayRows = history || [];
 
   return (
     <section className="card table-card" id="reports">
@@ -71,6 +39,15 @@ export default function AnalysisHistory({ history = [] }) {
         </h2>
         <div className="table-header-actions">
           <span className="small">AI Decision Support Audit Records</span>
+          {displayRows.length > 0 && onClearHistory && (
+            <button
+              className="btn-csv"
+              style={{ borderColor: '#e05260', color: '#ff6d78' }}
+              onClick={onClearHistory}
+            >
+              🗑️ CLEAR
+            </button>
+          )}
           <button className="btn-csv" onClick={exportToCSV}>
             📥 EXPORT CSV
           </button>
@@ -91,33 +68,49 @@ export default function AnalysisHistory({ history = [] }) {
             </tr>
           </thead>
           <tbody>
-            {displayRows.map((row, idx) => {
-              const action = row.decision || 'WAIT';
-              const tagClass =
-                action === 'BOOK NOW'
-                  ? 'tag-book-now'
-                  : action === 'PARTIAL BOOK'
-                  ? 'tag-partial-book'
-                  : 'tag-wait';
+            {displayRows.length === 0 ? (
+              <tr>
+                <td
+                  colSpan="7"
+                  style={{
+                    textAlign: 'center',
+                    padding: '28px',
+                    color: '#687f94',
+                    fontStyle: 'italic',
+                  }}
+                >
+                  No previous analyses recorded yet. Click "RUN INTELLIGENT ANALYSIS" to generate a record.
+                </td>
+              </tr>
+            ) : (
+              displayRows.map((row, idx) => {
+                const action = row.decision || 'WAIT';
+                const tagClass =
+                  action === 'BOOK NOW'
+                    ? 'tag-book-now'
+                    : action === 'PARTIAL BOOK'
+                    ? 'tag-partial-book'
+                    : 'tag-wait';
 
-              return (
-                <tr key={idx}>
-                  <td>
-                    <strong>{row.cargo || row.cargo_type}</strong>
-                  </td>
-                  <td>{row.route || `${row.origin} → ${row.destination}`}</td>
-                  <td>{Number(row.quantity || row.quantity_mt || 0).toLocaleString()} MT</td>
-                  <td>${row.current_rate ? Number(row.current_rate).toFixed(2) : '34.81'} / MT</td>
-                  <td>{row.vessel_assigned || 'MV Aeturnus 2'}</td>
-                  <td>
-                    <span style={{ fontSize: '11px', color: '#8ca6bd' }}>{row.risk_level || 'LOW'}</span>
-                  </td>
-                  <td>
-                    <span className={`tag ${tagClass}`}>{action}</span>
-                  </td>
-                </tr>
-              );
-            })}
+                return (
+                  <tr key={idx}>
+                    <td>
+                      <strong>{row.cargo || row.cargo_type}</strong>
+                    </td>
+                    <td>{row.route || `${row.origin} → ${row.destination}`}</td>
+                    <td>{Number(row.quantity || row.quantity_mt || 0).toLocaleString()} MT</td>
+                    <td>${row.current_rate ? Number(row.current_rate).toFixed(2) : '34.81'} / MT</td>
+                    <td>{row.vessel_assigned || 'MV Aeturnus 2'}</td>
+                    <td>
+                      <span style={{ fontSize: '11px', color: '#8ca6bd' }}>{row.risk_level || 'LOW'}</span>
+                    </td>
+                    <td>
+                      <span className={`tag ${tagClass}`}>{action}</span>
+                    </td>
+                  </tr>
+                );
+              })
+            )}
           </tbody>
         </table>
       </div>
